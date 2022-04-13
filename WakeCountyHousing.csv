@@ -1,0 +1,1001 @@
+Real_Estate_Id,Deeded_Acreage,Total_Sale_Price,Total_Sale_Date,Month_Year_of_Sale,Year_of_Sale,Year_Built,Year_Remodeled,Heated_Area,Num_Stories,Design_Style,Bath,Utilities,Physical_City,Physical_Zip
+19,0.21,34500,1/1/74,Jan-74,1974,1964,1964,1828,One Story,Split level,2 Bath,ALL,Raleigh,27610
+20,0.46,35500,5/18/83,May-83,1983,1970,1970,1240,One Story,Conventional,1 Bath,E,Raleigh,27610
+22,0.46,37500,9/16/04,4-Sep,2004,1900,1900,2261,One Story,Conventional,2 Bath,WSE,Wendell,27591
+25,0.96,70000,1/1/71,Jan-71,1971,1971,1971,3770,One Story,Conventional,Other,WGE,Raleigh,27613
+30,0.47,380000,8/12/15,15-Aug,2015,1946,2017,1789,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+31,0.39,337500,7/17/02,2-Jul,2002,1970,1970,2463,One Story,Conventional,2 Bath,ALL,Raleigh,27615
+33,0.5,32500,2/6/79,Feb-79,1979,1969,1969,2389,One Story,Ranch,3 Bath,WGE,Raleigh,27607
+34,0.7,19500,1/1/68,Jan-68,1968,1968,1968,1280,One Story,Conventional,2 Bath,ALL,Raleigh,27606
+35,0.49,319000,1/16/96,Jan-96,1996,1938,1938,4650,Two Story,Conventional,3½ Bath,ALL,Raleigh,27608
+37,0.13,425000,4/15/08,8-Apr,2008,1921,1921,1890,Other,Conventional,2 Bath,ALL,Raleigh,27604
+38,0.17,364000,12/19/14,14-Dec,2014,1931,1931,1500,Other,Conventional,1 ½ Bath,ALL,Raleigh,27608
+39,0.28,175000,4/15/05,5-Apr,2005,1950,2006,1050,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+40,0.36,236000,6/2/09,9-Jun,2009,1970,1970,3000,Other,Conventional,2½ Bath,ALL,Raleigh,27609
+41,0.82,71000,1/1/74,Jan-74,1974,1971,1971,3526,One Story,Conventional,2½ Bath,WGE,Raleigh,27613
+42,0.17,395000,1/17/17,17-Jan,2017,1946,1946,1212,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+43,0.45,265000,8/7/09,9-Aug,2009,1961,1961,1512,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+44,0.22,78000,4/15/96,Apr-96,1996,1956,1956,840,One Story,Conventional,1 Bath,ALL,Cary,27513
+46,1.03,215000,9/19/03,3-Sep,2003,1973,1973,2187,One Story,Ranch,3 Bath,ALL,Cary,27511
+47,0.29,98000,7/31/96,Jul-96,1996,1956,1956,1489,One Story,Conventional,2 Bath,ALL,Cary,27513
+49,0.45,70000,10/2/85,Oct-85,1985,1963,1963,1296,One Story,Ranch,2 Bath,E,Raleigh,27604
+51,0.53,118000,8/25/15,15-Aug,2015,1958,1958,1560,One Story,Conventional,2 Bath,E,Knightdale,27545
+52,0.13,202000,9/30/16,16-Sep,2016,1948,1948,1671,Two Story,Conventional,2 Bath,WSE,Fuquay Varina,27526
+53,0.28,220000,12/16/11,11-Dec,2011,1957,1957,1304,One Story,Ranch,2 Bath,ALL,Raleigh,27604
+58,0.19,681500,9/29/17,17-Sep,2017,1929,1929,2316,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+60,0.71,1700000,10/31/86,Oct-86,1986,1952,1952,2170,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+61,0.48,5000,1/1/74,Jan-74,1974,1997,1997,2179,Other,Conventional,2½ Bath,ALL,Raleigh,27612
+62,0.15,350000,8/18/20,20-Aug,2020,1949,1949,1020,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+63,0.38,202000,6/10/08,8-Jun,2008,1971,1971,1994,One Story,Split level,2 Bath,ALL,Raleigh,27609
+64,0.31,247000,10/25/02,2-Oct,2002,2008,2008,2514,Other,Conventional,2½ Bath,ALL,Raleigh,27605
+66,0.6,83500,1/22/92,Jan-92,1992,1950,1950,1457,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27606
+67,0.3,160000,11/20/09,9-Nov,2009,1967,1967,1671,One Story,Ranch,2 Bath,ALL,Cary,27511
+68,0.39,122000,3/6/18,18-Mar,2018,1970,1970,1050,One Story,Ranch,1 Bath,WE,Garner,27529
+69,0.36,81000,3/28/03,3-Mar,2003,1970,1970,976,One Story,Conventional,1 Bath,WE,Raleigh,27610
+70,0.72,272000,3/5/21,21-Mar,2021,1971,1971,1971,One Story,Conventional,2½ Bath,WSE,Garner,27529
+71,0.6,369000,6/5/13,13-Jun,2013,1973,1973,2492,One Story,Split level,3 Bath,ALL,Cary,27511
+72,0.31,71000,4/29/99,Apr-99,1999,1960,1960,975,One Story,Ranch,1 Bath,ALL,Raleigh,27610
+73,0.25,335000,5/29/19,19-May,2019,1968,1968,1600,Other,Conventional,2½ Bath,ALL,Raleigh,27609
+75,0.48,201500,11/21/03,3-Nov,2003,1962,1962,1852,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+77,0.32,163000,4/11/13,13-Apr,2013,1970,1970,1767,One Story,Conventional,2 Bath,ALL,Cary,27511
+80,0.13,171000,3/27/03,3-Mar,2003,1915,1915,1391,One Story,Conventional,1 Bath,ALL,Raleigh,27605
+81,0.3,25000,7/2/21,21-Jul,2021,1969,1969,2015,One Story,Split level,2½ Bath,E,Cary,27511
+82,0.37,53500,12/5/94,Dec-94,1994,1960,1960,1009,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+83,0.41,1449500,7/26/19,19-Jul,2019,2019,2019,4351,Other,Conventional,3½ Bath,,Raleigh,27608
+84,0.27,333000,2/27/13,13-Feb,2013,1964,2016,2408,Other,Conventional,2½ Bath,ALL,Raleigh,27609
+87,0.63,355000,12/27/13,13-Dec,2013,1967,1967,3106,One Story,Split level,3 Bath,ALL,Raleigh,27604
+95,0.32,75000,7/29/92,Jul-92,1992,1968,1968,1579,One Story,Ranch,1 ½ Bath,ALL,Garner,27529
+96,0.31,660000,6/16/17,17-Jun,2017,1949,1949,3181,One Story,Conventional,3 Bath,ALL,Raleigh,27609
+97,0.47,122000,1/31/89,Jan-89,1989,1969,1969,2152,One Story,Split level,2½ Bath,ALL,Raleigh,27612
+100,0.31,725000,9/27/13,13-Sep,2013,2004,2019,4255,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+101,0.23,201000,6/10/10,10-Jun,2010,1956,1956,1400,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27607
+102,0.35,365000,6/27/13,13-Jun,2013,1956,1956,1885,One Story,Conventional,3 Bath,ALL,Raleigh,27607
+103,0.29,120000,11/16/04,4-Nov,2004,1971,1971,1518,One Story,Split level,1 ½ Bath,ALL,Apex,27502
+104,0.39,145000,4/1/96,Apr-96,1996,1971,1971,1896,One Story,Split level,2½ Bath,ALL,Raleigh,27615
+105,0.07,49000,12/31/01,1-Dec,2001,1949,1949,644,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+107,0.04,36500,1/1/77,Jan-77,1977,1969,1969,1472,Other,Townhouse,2½ Bath,ALL,Raleigh,27607
+109,0.47,210000,5/24/21,21-May,2021,1962,1962,950,One Story,Conventional,1 Bath,ALL,Wake Forest,27587
+112,0.32,270000,7/6/15,15-Jul,2015,1969,1969,1875,One Story,Split level,2 Bath,ALL,Raleigh,27609
+113,0.64,17500,1/1/69,Jan-69,1969,1964,1964,1300,One Story,Conventional,1 ½ Bath,E,Raleigh,27603
+115,0.35,83500,6/7/95,Jun-95,1995,1951,1951,3010,Other,Conventional,3 Bath,WSE,Fuquay Varina,27526
+123,0.41,143000,5/7/18,18-May,2018,1959,1959,1248,One Story,Conventional,2 Bath,WE,Garner,27529
+124,0.4,345000,4/1/16,16-Apr,2016,1973,1973,2148,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+125,0.31,48500,1/1/73,Jan-73,1973,1973,1973,1982,Two Story,Conventional,Other,ALL,Raleigh,27607
+126,0.4,220000,4/30/03,3-Apr,2003,1973,1973,2368,One Story,Split Foyer,2 Bath,ALL,Raleigh,27607
+127,0.49,46000,1/1/73,Jan-73,1973,1972,1972,1998,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+128,0.51,325000,3/15/13,13-Mar,2013,1972,1972,2835,One Story,Split level,3 Bath,ALL,Raleigh,27607
+129,0.43,270000,11/18/05,5-Nov,2005,1973,1973,2295,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+133,0.25,144000,6/16/00,Jun-00,2000,1975,1975,1888,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+134,0.27,119000,8/3/98,Aug-98,1998,1975,1975,1570,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+143,0.32,21500,9/23/82,Sep-82,1982,1974,1974,1644,One Story,Split level,2 Bath,ALL,Raleigh,27604
+144,0.28,6000,3/4/86,Mar-86,1986,1974,1974,1210,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+146,0.53,255000,4/2/19,19-Apr,2019,1975,1975,1559,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+147,0.51,252000,4/9/10,10-Apr,2010,1972,1972,1656,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+149,0.4,42500,1/1/73,Jan-73,1973,1972,1972,1945,One Story,Split level,2½ Bath,ALL,Raleigh,27607
+150,0.4,41500,1/1/72,Jan-72,1972,1972,1972,2362,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+151,0.3,398000,5/11/16,16-May,2016,1973,2015,1894,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+152,0.31,395000,7/12/19,19-Jul,2019,1973,1973,1949,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+153,0.29,130000,8/15/86,Aug-86,1986,1973,1973,2408,Other,Conventional,3 Bath,ALL,Raleigh,27607
+154,0.55,259000,5/19/00,May-00,2000,1974,1974,2648,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+155,0.32,121000,3/31/11,11-Mar,2011,1975,1975,1282,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+157,0.32,488000,2/17/21,21-Feb,2021,1971,1971,3210,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+158,0.33,117500,9/9/85,Sep-85,1985,1971,1971,3330,Other,Conventional,Other,ALL,Raleigh,27607
+159,0.35,420000,5/2/07,7-May,2007,1971,1971,3080,Other,Conventional,3½ Bath,ALL,Raleigh,27607
+166,0.48,188000,3/26/20,20-Mar,2020,1972,1972,1196,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27604
+167,0.39,87000,8/29/95,Aug-95,1995,1972,1972,1279,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27604
+168,0.28,191000,1/11/17,17-Jan,2017,1972,1972,1752,One Story,Split level,2½ Bath,ALL,Raleigh,27604
+173,0.39,139000,6/5/07,7-Jun,2007,1972,1972,1218,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+174,0.31,84000,9/5/97,Sep-97,1997,1972,1972,1196,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27604
+179,0.57,212500,10/17/03,3-Oct,2003,1971,1971,2340,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+180,0.39,490000,12/17/14,14-Dec,2014,2014,2014,3209,Other,Conventional,3½ Bath,ALL,Raleigh,27607
+181,0.35,312000,7/2/10,10-Jul,2010,1971,1971,2166,One Story,Split level,2½ Bath,ALL,Raleigh,27607
+182,0.3,210000,1/31/05,5-Jan,2005,1971,1971,2166,One Story,Split level,3 Bath,ALL,Raleigh,27607
+183,0.36,157500,7/8/93,Jul-93,1993,1975,1975,2806,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+184,0.4,283000,2/16/16,16-Feb,2016,1975,1975,1647,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+185,0.61,230000,12/5/06,6-Dec,2006,1975,1975,2720,One Story,Ranch,3 Bath,ALL,Raleigh,27607
+186,0.43,68000,1/1/78,Jan-78,1978,1975,1975,2102,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+187,0.45,260000,12/12/14,14-Dec,2014,1975,1975,1680,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+188,0.43,199000,6/16/99,Jun-99,1999,1975,1975,2999,Other,Conventional,3½ Bath,ALL,Raleigh,27607
+198,0.65,180000,9/28/06,6-Sep,2006,1952,1952,2466,One Story,Conventional,3 Bath,ALL,Raleigh,27610
+201,0.41,382000,7/9/12,12-Jul,2012,1959,1959,2551,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+203,0.14,440000,9/27/13,13-Sep,2013,1920,2015,2490,Other,Conventional,2½ Bath,ALL,Raleigh,27601
+204,0.16,168000,8/8/14,14-Aug,2014,1965,1965,1384,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+205,0.43,70000,8/12/83,Aug-83,1983,1964,1964,1475,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+208,0.16,108000,3/1/16,16-Mar,2016,2006,2006,1352,Other,Conventional,2 Bath,ALL,Raleigh,27601
+210,0.11,250000,4/20/21,21-Apr,2021,2020,2020,1527,Other,Conventional,2½ Bath,ALL,Raleigh,27610
+211,0.12,355000,3/31/05,5-Mar,2005,1925,1925,1971,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+214,0.12,260000,6/12/19,19-Jun,2019,2019,2019,1590,Other,Conventional,2½ Bath,ALL,Raleigh,27610
+215,0.17,218000,3/9/16,16-Mar,2016,2013,2013,1296,One Story,Conventional,2 Bath,ALL,Raleigh,27601
+217,0.92,170000,11/22/93,Nov-93,1993,1971,1971,4136,Other,Conventional,3 Bath,WSE,Fuquay Varina,27526
+220,0.11,4000,1/1/74,Jan-74,1974,1967,1967,1124,One Story,Conventional,1 Bath,WSE,Holly Springs,27540
+221,0.17,75000,6/16/21,21-Jun,2021,1953,1953,720,One Story,Conventional,1 Bath,WSE,Holly Springs,27540
+222,0.46,215000,1/17/14,14-Jan,2014,1959,1959,2103,One Story,Conventional,2½ Bath,ALL,Raleigh,27606
+223,0.1,283000,6/12/20,20-Jun,2020,1980,2019,960,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+224,0.1,66000,9/20/01,1-Sep,2001,1980,1980,960,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+238,0.15,55000,8/15/14,14-Aug,2014,1949,1949,676,One Story,Conventional,1 Bath,ALL,Raleigh,27608
+241,0.11,28800,4/29/13,13-Apr,2013,1930,1930,912,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+242,0.15,165000,7/27/11,11-Jul,2011,1925,1925,1146,One Story,Conventional,2½ Bath,ALL,Raleigh,27603
+246,2.24,158000,2/14/13,13-Feb,2013,2009,2009,1787,One Story,Conventional,2 Bath,E,Raleigh,27603
+248,1.51,174000,5/19/16,16-May,2016,1964,1964,1863,One Story,Split Foyer,1 ½ Bath,GE,Raleigh,27606
+250,3,100000,10/3/08,8-Oct,2008,1948,1948,1352,One Story,Conventional,1 Bath,E,Knightdale,27545
+251,0.24,27500,1/1/77,Jan-77,1977,1958,1958,1176,One Story,Split level,1 Bath,ALL,Raleigh,27604
+253,0.45,125000,4/2/07,7-Apr,2007,1992,1992,1161,One Story,Conventional,2 Bath,E,Knightdale,27545
+255,0.33,117000,1/15/04,4-Jan,2004,1959,1959,1050,One Story,Ranch,1 Bath,ALL,Raleigh,27604
+256,0.46,110000,12/9/04,4-Dec,2004,1959,1959,1566,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+258,0.11,120000,5/24/96,May-96,1996,1930,1930,1226,One Story,Conventional,1 Bath,ALL,Raleigh,27607
+261,0.16,434000,3/31/17,17-Mar,2017,1920,1920,1524,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+262,0.16,166000,6/25/03,3-Jun,2003,1935,1935,1299,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27607
+271,0.92,6000,1/1/80,Jan-80,1980,1983,1983,1494,One Story,Conventional,2 Bath,E,Raleigh,27614
+278,0.14,10000,3/7/01,1-Mar,2001,1917,1917,1453,One Story,Conventional,Other,ALL,Raleigh,27601
+287,0.43,266000,3/27/17,17-Mar,2017,1970,1970,2134,One Story,Split level,2 Bath,WSE,Apex,27502
+291,0.04,80000,7/7/20,20-Jul,2020,1930,1930,554,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+292,0.07,19500,6/17/13,13-Jun,2013,1925,1925,686,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+293,0.1,20900,4/29/13,13-Apr,2013,1910,1910,608,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+297,0.07,26500,4/29/13,13-Apr,2013,1910,1910,736,Other,Conventional,1 Bath,ALL,Raleigh,27601
+306,0.14,276000,1/3/18,18-Jan,2018,1920,2015,920,One Story,Conventional,2 Bath,ALL,Raleigh,27601
+308,0.07,21500,6/17/13,13-Jun,2013,1905,1905,716,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+312,0.33,325000,6/29/92,Jun-92,1992,1990,1990,3403,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+314,0.17,151000,7/23/19,19-Jul,2019,2018,2018,1308,One Story,Conventional,2 Bath,WSE,Zebulon,27597
+321,0.56,4000,2/20/86,Feb-86,1986,1985,1985,1136,One Story,Conventional,2 Bath,E,Raleigh,27604
+324,2.84,535000,2/29/12,12-Feb,2012,1963,1963,5592,One Story,Conventional,Other,ALL,Raleigh,27612
+325,0.33,252000,1/31/11,11-Jan,2011,1967,1967,1983,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+326,0.27,265000,12/7/18,18-Dec,2018,1959,1959,1701,One Story,Conventional,1 Bath,ALL,Cary,27513
+329,0.92,385000,2/18/16,16-Feb,2016,1963,2015,2520,One Story,Conventional,3½ Bath,ALL,Raleigh,27612
+330,0.47,85000,11/5/14,14-Nov,2014,1956,2012,1168,One Story,Conventional,1 Bath,ALL,Holly Springs,27540
+331,0.19,140000,4/27/18,18-Apr,2018,1950,1950,954,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+333,0.16,107000,9/19/03,3-Sep,2003,1952,1952,774,One Story,Conventional,1 Bath,ALL,Raleigh,27608
+334,0.72,98500,10/15/18,18-Oct,2018,1959,1959,1642,One Story,Conventional,1 Bath,E,Raleigh,27603
+338,0.48,103000,3/31/10,10-Mar,2010,1955,1955,1555,One Story,Conventional,2 Bath,ALL,Garner,27529
+340,0.64,0,10/4/85,Oct-85,1985,1985,1985,1836,Other,Conventional,2½ Bath,E,Raleigh,27603
+343,0.8,106000,6/7/95,Jun-95,1995,1959,1959,1416,One Story,Conventional,1 Bath,E,Willow Spring,27592
+345,0.22,617800,6/16/11,11-Jun,2011,1917,1917,4076,Other,Conventional,3 Bath,ALL,Raleigh,27605
+346,0.28,87500,5/6/98,May-98,1998,1966,1966,1350,One Story,Ranch,2 Bath,WE,Rolesville,27571
+351,57.5,76500,5/19/05,5-May,2005,1935,1935,1572,One Story,Conventional,1 Bath,E,Willow Spring,27592
+351,57.5,76500,5/19/05,5-May,2005,1940,1940,1560,One Story,Conventional,1 Bath,E,Willow Spring,27592
+351,57.5,76500,5/19/05,5-May,2005,1940,1940,1033,One Story,Conventional,1 Bath,E,Willow Spring,27592
+351,57.5,76500,5/19/05,5-May,2005,1953,1953,1527,One Story,Conventional,1 Bath,E,Willow Spring,27592
+351,57.5,76500,5/19/05,5-May,2005,1934,1934,3544,Two Story,Conventional,Other,E,Willow Spring,27592
+357,0.24,146000,6/6/16,16-Jun,2016,1954,1954,1146,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+373,0.33,169000,4/17/07,7-Apr,2007,1972,1972,1893,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+374,0.54,131000,5/20/93,May-93,1993,1972,1972,2148,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+375,0.38,135000,5/15/15,15-May,2015,1972,2019,1514,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+376,0.31,145000,8/24/01,1-Aug,2001,1972,1972,1807,One Story,Split level,2½ Bath,ALL,Raleigh,27604
+377,0.31,103000,11/9/94,Nov-94,1994,1972,1972,2136,One Story,Split level,2½ Bath,ALL,Raleigh,27604
+378,0.23,33000,1/1/73,Jan-73,1973,1972,1972,1294,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+379,0.26,213000,8/12/19,19-Aug,2019,1972,1972,1416,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+382,0.2,152500,12/29/16,16-Dec,2016,1965,2016,1349,One Story,Ranch,2 Bath,ALL,Raleigh,27610
+383,0.52,180000,8/21/07,7-Aug,2007,1960,1960,1378,One Story,Conventional,2 Bath,ALL,Raleigh,27606
+387,0.7,32000,6/20/91,Jun-91,1991,1975,1975,640,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+390,0.58,150000,8/17/01,1-Aug,2001,1960,1960,3518,One Story,Conventional,3½ Bath,ALL,Raleigh,27606
+396,1.75,21500,7/10/86,Jul-86,1986,1988,1988,2919,One Story,Conventional,2½ Bath,E,Raleigh,27610
+397,0.36,110000,5/13/10,10-May,2010,1970,1970,1050,One Story,Conventional,2 Bath,WE,Raleigh,27616
+398,0.54,70000,10/3/84,Oct-84,1984,1967,1967,1676,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+399,0.4,488000,8/31/16,16-Aug,2016,1964,2018,2656,Other,Conventional,2½ Bath,ALL,Raleigh,27612
+400,0.36,292500,2/20/04,4-Feb,2004,1966,2017,3988,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+401,27.86,107500,7/1/81,Jul-81,1981,1972,1972,4979,One Story,Contemporary,Other,E,Raleigh,27614
+402,0.3,591000,2/1/10,10-Feb,2010,2009,2009,3851,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+410,4.85,273000,5/19/17,17-May,2017,1971,1971,2207,One Story,Conventional,2½ Bath,E,Willow Spring,27592
+413,0.51,440000,11/30/20,20-Nov,2020,1971,2010,2055,One Story,Conventional,2½ Bath,ALL,Raleigh,27607
+414,0.48,160000,9/28/18,18-Sep,2018,1953,1953,1066,One Story,Conventional,1 Bath,ALL,Garner,27529
+415,0.28,177000,1/17/20,20-Jan,2020,1964,1964,1014,One Story,Conventional,1 Bath,ALL,Garner,27529
+418,0.32,66000,2/18/88,Feb-88,1988,1959,1959,1507,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+419,0.13,112000,3/22/06,6-Mar,2006,1950,1950,768,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+421,0.27,200000,8/28/06,6-Aug,2006,1973,1973,1782,One Story,Split level,2 Bath,ALL,Raleigh,27609
+422,0.27,141000,5/30/02,2-May,2002,1962,1962,1266,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+423,82.24,3099000,11/9/07,7-Nov,2007,1910,1910,1679,One Story,Conventional,1 Bath,E,Apex,27539
+426,1.68,260000,1/8/13,13-Jan,2013,1969,1969,2997,One Story,Conventional,2 Bath,E,Raleigh,27603
+432,0.45,62600,8/27/18,18-Aug,2018,1965,1965,3099,One Story,Conventional,2½ Bath,E,Raleigh,27603
+436,0.32,380000,12/9/20,20-Dec,2020,1969,1969,2800,One Story,Split level,3 Bath,ALL,Raleigh,27606
+445,0.22,770000,4/28/17,17-Apr,2017,1928,1928,4074,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+448,0.18,178000,11/27/01,1-Nov,2001,1947,1947,1280,One Story,Conventional,1 Bath,ALL,Raleigh,27607
+449,0.04,151500,12/31/02,2-Dec,2002,1969,1969,2185,Other,Townhouse,Other,ALL,Raleigh,27607
+450,0.51,46500,5/7/84,May-84,1984,1966,1966,1080,One Story,Conventional,1 Bath,E,Garner,27529
+451,1,135000,12/12/02,2-Dec,2002,1966,1966,1884,One Story,Conventional,2 Bath,E,Wendell,27591
+453,0.5,208100,10/25/18,18-Oct,2018,1973,1973,1281,One Story,Conventional,1 Bath,E,Wendell,27591
+454,0.56,100000,3/10/97,Mar-97,1997,1961,1961,1637,One Story,Ranch,1 ½ Bath,E,Knightdale,27545
+460,0.12,460000,10/25/18,18-Oct,2018,2018,2018,1792,Other,Conventional,2½ Bath,ALL,Raleigh,27601
+466,0.17,355000,4/10/15,15-Apr,2015,1998,1998,1740,Other,Conventional,2½ Bath,ALL,Raleigh,27604
+468,0.4,187000,9/8/98,Sep-98,1998,1931,1931,2936,Other,Conventional,2 Bath,ALL,Wake Forest,27587
+469,0.06,17500,2/11/05,5-Feb,2005,1920,2008,1145,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+470,0.11,380000,4/29/21,21-Apr,2021,2002,2002,1280,Other,Conventional,2½ Bath,ALL,Raleigh,27610
+471,0.1,75000,4/18/06,6-Apr,2006,1925,1925,908,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+472,0.14,368500,1/30/19,19-Jan,2019,1930,1930,1062,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+475,82.56,3300000,2/15/21,21-Feb,2021,1969,1969,962,One Story,Conventional,1 Bath,E,Raleigh,27603
+475,82.56,3300000,2/15/21,21-Feb,2021,1969,1969,840,One Story,Conventional,1 Bath,E,Raleigh,27603
+475,82.56,3300000,2/15/21,21-Feb,2021,1965,1965,988,One Story,Conventional,1 Bath,E,Raleigh,27603
+475,82.56,3300000,2/15/21,21-Feb,2021,1940,1940,2256,Two Story,Conventional,2 Bath,E,Raleigh,27603
+480,0.1,83000,12/1/14,14-Dec,2014,1960,2014,680,One Story,Conventional,1 Bath,WSE,Holly Springs,27540
+481,0.37,44000,2/24/83,Feb-83,1983,1961,1961,1161,One Story,Conventional,1 ½ Bath,WSE,Fuquay Varina,27526
+482,0.25,110000,5/17/00,May-00,2000,1960,1960,1216,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27604
+483,3.38,193500,6/22/12,12-Jun,2012,2000,2000,1593,One Story,Conventional,2 Bath,E,Raleigh,27610
+487,0.42,64500,6/29/90,Jun-90,1990,1971,1971,1066,One Story,Ranch,2 Bath,ALL,Garner,27529
+488,0.64,200000,6/2/21,21-Jun,2021,1966,1966,2865,One Story,Conventional,2½ Bath,ALL,Raleigh,27612
+489,0.34,123000,3/8/19,19-Mar,2019,1970,1970,976,One Story,Conventional,1 Bath,WE,Raleigh,27610
+490,0.36,106000,2/3/06,6-Feb,2006,2005,2005,1232,One Story,Conventional,2 Bath,,Fuquay Varina,27526
+491,0.28,84000,5/6/11,11-May,2011,1963,1963,1075,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27610
+492,0.34,27000,1/1/76,Jan-76,1976,1960,1960,1035,One Story,Ranch,1 Bath,ALL,Raleigh,27603
+496,0.32,157000,5/31/07,7-May,2007,1968,1968,1558,One Story,Conventional,2 Bath,ALL,Cary,27511
+497,1,165000,5/22/18,18-May,2018,1938,1938,1504,One Story,Conventional,2 Bath,E,Willow Spring,27592
+498,0.55,65500,10/10/95,Oct-95,1995,1956,1956,2864,One Story,Split level,3 Bath,ALL,Raleigh,27609
+499,0.24,263500,2/20/20,20-Feb,2020,2019,2019,1941,Other,Conventional,2½ Bath,WSE,Fuquay Varina,27526
+501,0.41,100000,3/1/95,Mar-95,1995,1995,1995,1263,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+502,0.5,1000,3/1/95,Mar-95,1995,1963,1963,2144,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+503,0.23,1500,3/29/21,21-Mar,2021,1968,1968,1196,One Story,Conventional,1 Bath,E,Holly Springs,27540
+504,0.28,185000,6/10/21,21-Jun,2021,1970,1970,1092,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+505,0.32,111000,11/2/12,12-Nov,2012,1954,1954,1119,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+506,0.31,5000,8/31/84,Aug-84,1984,1968,1968,1418,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+507,0.38,367000,4/29/19,19-Apr,2019,1968,1968,2173,Other,Conventional,2½ Bath,ALL,Raleigh,27612
+508,0.44,430000,9/27/17,17-Sep,2017,1967,1967,2721,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+509,0.54,70000,4/30/84,Apr-84,1984,1958,1958,1446,One Story,Conventional,2½ Bath,ALL,Raleigh,27607
+519,0.47,41000,7/12/85,Jul-85,1985,1985,1985,1157,One Story,Conventional,2 Bath,GE,Raleigh,27604
+525,1.25,95000,9/30/15,15-Sep,2015,1959,1959,768,One Story,Conventional,1 Bath,E,Willow Spring,27592
+525,1.25,95000,9/30/15,15-Sep,2015,1950,1950,1053,One Story,Conventional,1 Bath,E,Willow Spring,27592
+525,1.25,95000,9/30/15,15-Sep,2015,1954,1954,765,One Story,Conventional,1 Bath,E,Willow Spring,27592
+528,1.43,127000,10/18/94,Oct-94,1994,1994,1994,1824,Other,Conventional,2½ Bath,E,Willow Spring,27592
+535,0.78,812500,6/1/16,16-Jun,2016,1961,1961,4131,One Story,Conventional,3½ Bath,ALL,Raleigh,27607
+536,0.1,105000,3/19/07,7-Mar,2007,2005,2005,1025,One Story,Conventional,2 Bath,ALL,Raleigh,27601
+545,0.43,92500,12/15/89,Dec-89,1989,1969,1969,1806,One Story,Split level,2½ Bath,WSE,Fuquay Varina,27526
+546,0.41,640000,8/27/12,12-Aug,2012,1967,1967,3760,Other,Conventional,3½ Bath,ALL,Raleigh,27612
+548,0.16,220000,11/14/11,11-Nov,2011,1946,1946,1012,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+549,0.39,400000,11/4/14,14-Nov,2014,2016,2016,5442,Other,Conventional,3½ Bath,ALL,Raleigh,27607
+551,0.4,230000,5/1/06,6-May,2006,1954,1954,1359,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+552,0.39,500,6/7/96,Jun-96,1996,1940,1940,1862,One Story,Ranch,1 Bath,WSE,Knightdale,27545
+554,0.68,224900,3/18/20,20-Mar,2020,1960,1960,1170,One Story,Conventional,1 ½ Bath,E,Raleigh,27603
+561,1.37,4000,5/23/05,5-May,2005,1971,1971,4329,One Story,Conventional,3 Bath,E,Willow Spring,27592
+564,0.37,140000,8/29/91,Aug-91,1991,1967,1967,2460,One Story,Ranch,2 Bath,ALL,Raleigh,27612
+566,0.5,86000,11/21/01,1-Nov,2001,1960,1960,1316,One Story,Conventional,1 ½ Bath,E,Fuquay Varina,27526
+570,0.79,67000,8/8/95,Aug-95,1995,1963,1963,1536,One Story,Ranch,1 ½ Bath,E,Raleigh,27603
+571,0.17,280000,12/28/16,16-Dec,2016,1952,1952,819,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+581,0.81,160000,6/6/17,17-Jun,2017,1980,1980,1014,One Story,Conventional,2 Bath,E,Holly Springs,27540
+585,0.48,76500,9/17/85,Sep-85,1985,1964,1964,1498,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+586,0.61,600000,10/6/17,17-Oct,2017,1956,2017,2196,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+588,0.29,96000,12/7/12,12-Dec,2012,1960,1960,1249,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+592,2.09,105000,10/21/04,4-Oct,2004,1961,1961,4096,One Story,Ranch,2 Bath,WSE,Fuquay Varina,27526
+596,0.18,195000,6/6/17,17-Jun,2017,1952,1952,750,One Story,Conventional,1 Bath,ALL,Cary,27511
+597,0.32,255000,5/30/17,17-May,2017,1961,1961,1164,One Story,Conventional,2 Bath,ALL,Cary,27513
+614,0.22,50000,10/4/94,Oct-94,1994,1948,1948,840,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+618,0.35,80000,12/12/06,6-Dec,2006,1948,1948,1000,One Story,Conventional,1 Bath,E,Fuquay Varina,27526
+621,0.32,95000,8/1/02,2-Aug,2002,1910,1910,1648,One Story,Conventional,1 ½ Bath,WSE,Fuquay Varina,27526
+624,0.14,285000,5/3/13,13-May,2013,1945,1945,2501,Other,Conventional,2 Bath,ALL,Raleigh,27607
+628,0.28,232000,9/30/11,11-Sep,2011,2002,2002,2274,Two Story,Conventional,2½ Bath,ALL,Cary,27513
+633,0.19,91000,10/28/03,3-Oct,2003,1954,1954,1283,One Story,Ranch,1 Bath,WSE,Fuquay Varina,27526
+635,0.23,95000,9/28/98,Sep-98,1998,1962,2017,1673,One Story,Split level,1 ½ Bath,ALL,Raleigh,27610
+636,0.3,78000,6/30/97,Jun-97,1997,1968,1968,2223,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+637,0.25,143000,8/20/14,14-Aug,2014,1966,1966,1752,One Story,Split level,2 Bath,ALL,Raleigh,27604
+639,0.21,165000,2/9/18,18-Feb,2018,1977,1977,1104,One Story,Conventional,2 Bath,WSE,Fuquay Varina,27526
+640,0.39,192000,2/1/17,17-Feb,2017,1960,1960,1871,One Story,Conventional,2 Bath,WSE,Fuquay Varina,27526
+646,0.3,59000,9/1/15,15-Sep,2015,1956,1956,1317,One Story,Conventional,2 Bath,WSE,Fuquay Varina,27526
+649,0.13,165000,5/17/12,12-May,2012,1930,1930,1104,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+651,0.28,116500,5/15/13,13-May,2013,1962,1962,1050,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27610
+652,0.37,470500,6/30/21,21-Jun,2021,1961,1961,2424,One Story,Ranch,2 Bath,ALL,Raleigh,27609
+654,2.26,635000,1/30/17,17-Jan,2017,1965,1965,4997,Other,Conventional,Other,E,Raleigh,27604
+655,0.33,220000,3/29/00,Mar-00,2000,1957,1957,2752,One Story,Conventional,3 Bath,ALL,Raleigh,27608
+656,0.62,305000,1/11/18,18-Jan,2018,1961,1961,1856,One Story,Split level,2½ Bath,ALL,Raleigh,27606
+657,0.29,160000,7/29/98,Jul-98,1998,1969,1969,2064,One Story,Split level,2½ Bath,ALL,Raleigh,27615
+658,0.62,174500,7/29/98,Jul-98,1998,1968,2005,2913,One Story,Split level,3½ Bath,WGE,Raleigh,27607
+659,0.22,647500,11/12/19,19-Nov,2019,1996,1996,2176,Other,Conventional,3 Bath,ALL,Raleigh,27609
+661,0.54,4500,1/1/69,Jan-69,1969,1969,1969,1092,One Story,Conventional,2 Bath,ALL,Raleigh,27606
+662,0.48,163000,12/30/13,13-Dec,2013,1958,1958,1230,One Story,Ranch,1 ½ Bath,ALL,Cary,27511
+663,0.47,310000,6/25/14,14-Jun,2014,1971,1971,1930,One Story,Conventional,2 Bath,ALL,Raleigh,27615
+665,0.58,15000,1/1/68,Jan-68,1968,1966,1966,1318,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+667,0.21,55000,9/14/05,5-Sep,2005,1950,1950,744,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+668,0.25,314000,11/28/05,5-Nov,2005,1943,1943,1685,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27607
+669,0.41,35000,1/1/70,Jan-70,1970,1966,1966,2211,One Story,Split level,3 Bath,ALL,Cary,27511
+670,6.36,262000,6/7/19,19-Jun,2019,1976,1976,2436,One Story,Conventional,2 Bath,E,Garner,27529
+671,0.44,125000,9/3/19,19-Sep,2019,1952,1952,1537,One Story,Conventional,1 ½ Bath,ALL,Garner,27529
+672,0.45,98000,7/5/12,12-Jul,2012,1961,1961,1170,One Story,Conventional,1 ½ Bath,E,Raleigh,27610
+674,1.1,250000,1/31/12,12-Jan,2012,1961,1961,2957,One Story,Conventional,3 Bath,ALL,Cary,27511
+675,0.32,500000,10/17/19,19-Oct,2019,1961,1961,1972,One Story,Split level,3 Bath,ALL,Raleigh,27609
+683,0.3,235000,7/29/16,16-Jul,2016,1972,1972,1600,Other,Conventional,2 Bath,ALL,Raleigh,27609
+684,0.37,233000,1/15/19,19-Jan,2019,1972,1972,1600,Other,Conventional,2 Bath,ALL,Raleigh,27609
+685,0.3,350000,4/12/21,21-Apr,2021,1972,1972,1456,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+686,0.27,83500,10/31/89,Oct-89,1989,1973,1973,1575,One Story,Split level,2 Bath,ALL,Raleigh,27609
+687,0.35,154000,5/14/04,4-May,2004,1973,1973,1687,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+688,0.39,160000,3/29/04,4-Mar,2004,1973,1973,1725,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+689,0.44,243000,8/29/16,16-Aug,2016,1973,1973,2250,One Story,Conventional,3 Bath,ALL,Raleigh,27609
+690,0.42,356000,6/30/16,16-Jun,2016,1973,1973,2506,One Story,Conventional,3½ Bath,ALL,Raleigh,27609
+692,0.31,380000,5/16/19,19-May,2019,1973,2019,2193,One Story,Conventional,2½ Bath,ALL,Raleigh,27609
+693,0.33,29000,1/1/72,Jan-72,1972,1972,1972,1575,One Story,Split level,2 Bath,ALL,Raleigh,27609
+694,0.4,184500,9/15/14,14-Sep,2014,1972,1972,1575,One Story,Split level,2 Bath,ALL,Raleigh,27609
+695,0.48,368500,5/18/21,21-May,2021,1972,1972,1687,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+696,0.36,115000,9/11/96,Sep-96,1996,1972,1972,1212,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+697,0.39,123000,6/30/98,Jun-98,1998,1972,1972,1456,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+698,0.46,29000,1/1/73,Jan-73,1973,1972,1972,1575,One Story,Split level,2 Bath,ALL,Raleigh,27609
+699,0.33,170000,12/8/06,6-Dec,2006,1972,1972,1716,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+700,0.28,61500,2/22/85,Feb-85,1985,1972,1972,2200,One Story,Conventional,2½ Bath,ALL,Raleigh,27609
+701,0.27,32000,1/1/73,Jan-73,1973,1972,1972,2012,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+702,0.24,344000,10/30/19,19-Oct,2019,1972,2016,1712,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+703,0.21,310000,9/9/20,20-Sep,2020,1973,1973,1600,Other,Conventional,2 Bath,ALL,Raleigh,27609
+704,0.25,331000,8/3/20,20-Aug,2020,1974,1974,1575,One Story,Split level,2 Bath,ALL,Raleigh,27609
+705,0.29,107000,12/6/91,Dec-91,1991,1973,1973,1926,Other,Conventional,1 ½ Bath,ALL,Raleigh,27609
+706,0.39,59500,1/1/80,Jan-80,1980,1973,1973,1668,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+707,0.38,238000,3/7/19,19-Mar,2019,1974,1974,1875,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+708,0.36,185000,11/30/06,6-Nov,2006,1973,1973,1640,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+709,0.35,43000,5/31/83,May-83,1983,1973,1973,1550,Other,Conventional,2 Bath,ALL,Raleigh,27609
+710,0.41,30000,1/1/73,Jan-73,1973,1973,1973,1575,One Story,Split level,2 Bath,ALL,Raleigh,27609
+711,0.3,22500,1/28/83,Jan-83,1983,1973,1973,1875,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+712,0.27,56000,3/5/82,Mar-82,1982,1973,1973,1575,One Story,Split level,2 Bath,ALL,Raleigh,27609
+713,0.33,136500,10/29/03,3-Oct,2003,1973,1973,1875,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+714,0.28,28500,1/1/73,Jan-73,1973,1973,1973,1650,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+715,0.31,296000,1/15/21,21-Jan,2021,1973,1973,1725,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+716,0.39,223500,3/1/19,19-Mar,2019,1973,1973,1183,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+717,0.26,120000,2/27/96,Feb-96,1996,1973,1973,1625,Other,Conventional,2 Bath,ALL,Raleigh,27609
+718,0.23,53500,12/21/87,Dec-87,1987,1973,1973,1215,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+719,0.22,305000,7/10/20,20-Jul,2020,1973,1973,1595,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+720,0.27,170500,8/19/14,14-Aug,2014,1973,1973,1396,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+721,0.23,306500,7/31/20,20-Jul,2020,1973,1973,1839,One Story,Split level,2 Bath,ALL,Raleigh,27609
+722,0.26,88000,6/30/94,Jun-94,1994,1973,1973,1830,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+723,0.24,120000,1/30/12,12-Jan,2012,1973,1973,1687,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+724,0.21,36000,1/1/74,Jan-74,1974,1973,1973,1725,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+725,0.31,73000,3/10/86,Mar-86,1986,1973,1973,1912,One Story,Conventional,3 Bath,ALL,Raleigh,27609
+726,0.28,28500,1/1/73,Jan-73,1973,1973,1973,1321,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+727,0.39,325000,12/4/20,20-Dec,2020,1973,1973,1610,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+728,0.51,184500,6/20/05,5-Jun,2005,1973,1973,1889,Other,Conventional,3 Bath,ALL,Raleigh,27609
+729,0.31,205000,1/4/18,18-Jan,2018,1973,1973,1575,One Story,Split level,2 Bath,ALL,Raleigh,27609
+730,0.33,220000,6/29/15,15-Jun,2015,1973,1973,1600,Other,Conventional,2 Bath,ALL,Raleigh,27609
+731,0.3,300000,10/23/19,19-Oct,2019,1973,1973,1420,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+732,0.26,21000,1/1/79,Jan-79,1979,1973,1973,1250,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+733,0.29,145000,1/4/00,Jan-00,2000,1973,1973,1600,Other,Conventional,2 Bath,ALL,Raleigh,27609
+734,0.29,260000,5/22/18,18-May,2018,1973,1973,1606,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+735,0.29,155000,8/13/04,4-Aug,2004,1973,1973,1600,Other,Conventional,2 Bath,ALL,Raleigh,27609
+736,0.3,33000,1/1/73,Jan-73,1973,1973,1973,2139,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+737,0.31,77500,1/31/86,Jan-86,1986,1972,1972,1737,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+738,0.29,129000,7/16/99,Jul-99,1999,1972,1972,1620,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+739,0.31,74500,12/21/90,Dec-90,1990,1972,1972,1612,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+740,0.29,29500,12/3/84,Dec-84,1984,1972,1972,1506,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+741,0.21,140000,3/9/01,1-Mar,2001,1972,1972,1575,One Story,Split level,2 Bath,ALL,Raleigh,27609
+742,0.32,116500,5/1/98,May-98,1998,1972,1972,1612,One Story,Split level,2 Bath,ALL,Raleigh,27609
+743,0.25,201000,9/11/15,15-Sep,2015,1972,1972,1650,One Story,Split level,2 Bath,ALL,Raleigh,27609
+744,0.25,132000,4/30/01,1-Apr,2001,1972,1972,1866,Other,Conventional,2 Bath,ALL,Raleigh,27609
+745,0.28,129500,2/28/00,Feb-00,2000,1972,1972,1225,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+746,0.29,125000,4/15/13,13-Apr,2013,1972,1972,1411,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+747,0.27,64000,9/30/83,Sep-83,1983,1972,1972,1725,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+748,0.27,97500,8/15/94,Aug-94,1994,1972,1972,1200,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+749,0.28,355000,7/29/20,20-Jul,2020,1972,1972,1572,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+752,0.27,119000,10/22/96,Oct-96,1996,1972,1972,1620,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+753,0.26,122000,12/1/00,Dec-00,2000,1972,1972,1777,One Story,Conventional,2½ Bath,ALL,Raleigh,27609
+754,0.27,167500,3/14/03,3-Mar,2003,1972,1972,1712,One Story,Ranch,2 Bath,ALL,Raleigh,27609
+755,0.28,160000,11/26/13,13-Nov,2013,1972,1972,1620,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+756,0.28,240000,12/8/17,17-Dec,2017,1972,1972,1650,One Story,Split level,2 Bath,ALL,Raleigh,27609
+757,0.27,24000,1/1/72,Jan-72,1972,1972,1972,1225,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+758,0.27,230000,7/21/16,16-Jul,2016,1972,1972,1395,One Story,Conventional,2½ Bath,ALL,Raleigh,27609
+761,0.26,232000,8/9/18,18-Aug,2018,1971,1971,1250,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+762,0.3,278000,4/12/17,17-Apr,2017,1973,1973,2189,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+763,0.35,300000,6/23/17,17-Jun,2017,1973,2013,1892,One Story,Conventional,2½ Bath,ALL,Raleigh,27609
+764,0.28,320000,6/21/19,19-Jun,2019,1973,1973,2200,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+765,0.26,385000,11/24/20,20-Nov,2020,1973,1973,1650,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+766,0.25,35500,1/1/74,Jan-74,1974,1973,1973,2200,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+767,0.26,97000,5/26/94,May-94,1994,1973,1973,1650,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+768,0.26,193500,7/14/08,8-Jul,2008,1973,1973,1650,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+769,0.28,36000,4/11/84,Apr-84,1984,1973,1973,1650,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+770,0.31,82000,8/8/88,Aug-88,1988,1973,1973,1100,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+771,0.31,200000,12/4/20,20-Dec,2020,1973,1973,1100,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+772,0.33,205000,6/12/09,9-Jun,2009,1973,1973,1650,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+773,0.33,90000,5/26/94,May-94,1994,1973,1973,1100,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+774,0.26,150000,6/28/02,2-Jun,2002,1971,1971,2328,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+775,0.26,180000,2/27/14,14-Feb,2014,1972,1972,1650,One Story,Conventional,3 Bath,ALL,Raleigh,27609
+776,0.27,26000,1/1/72,Jan-72,1972,1972,1972,1100,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+777,0.29,192000,9/26/14,14-Sep,2014,1972,1972,2200,One Story,Conventional,3 Bath,ALL,Raleigh,27609
+783,0.33,171000,4/21/10,10-Apr,2010,1974,1974,1300,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+786,0.3,183000,6/2/17,17-Jun,2017,1973,1973,975,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+787,0.19,150000,5/25/07,7-May,2007,1972,1972,1188,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+788,0.23,110000,12/29/00,Dec-00,2000,1972,1972,1200,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+789,0.32,91000,2/23/11,11-Feb,2011,1972,1972,1188,One Story,Conventional,1 ½ Bath,WSE,Raleigh,27615
+791,0.2,103000,6/29/00,Jun-00,2000,1972,1972,1100,One Story,Conventional,1 ½ Bath,WSE,Raleigh,27615
+792,0.15,109000,9/21/06,6-Sep,2006,1972,1972,1188,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+793,0.23,80000,8/12/03,3-Aug,2003,1971,1971,1320,One Story,Conventional,2 Bath,WSE,Raleigh,27615
+795,0.17,135000,9/16/16,16-Sep,2016,1972,1972,1020,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+796,0.14,110500,9/7/06,6-Sep,2006,1972,1972,1020,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+797,0.3,113000,3/4/03,3-Mar,2003,1972,1972,1224,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+799,0.24,68000,8/1/88,Aug-88,1988,1972,1972,1320,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+800,0.44,169000,11/22/16,16-Nov,2016,1972,1972,1320,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+802,0.21,19500,1/1/72,Jan-72,1972,1972,1972,1188,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+805,0.46,22000,1/1/73,Jan-73,1973,1972,1972,1200,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+806,0.84,104000,3/10/03,3-Mar,2003,1972,1972,1230,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+808,0.18,100000,1/22/07,7-Jan,2007,1972,1972,1184,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+811,0.18,200000,1/2/19,19-Jan,2019,1972,1972,1200,One Story,Conventional,1 Bath,ALL,Raleigh,27615
+812,0.19,133500,3/1/16,16-Mar,2016,1972,1972,1221,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+813,0.29,140000,5/23/16,16-May,2016,1972,2016,1230,One Story,Conventional,2 Bath,ALL,Raleigh,27615
+815,0.22,97000,4/25/97,Apr-97,1997,1972,1972,1320,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+816,0.23,165000,5/11/16,16-May,2016,1973,1973,1000,One Story,Conventional,2 Bath,ALL,Raleigh,27615
+817,0.18,290000,3/4/19,19-Mar,2019,1973,2019,2050,One Story,Conventional,2 Bath,ALL,Raleigh,27615
+818,0.33,236500,12/13/18,18-Dec,2018,1972,1972,1530,One Story,Conventional,2½ Bath,ALL,Raleigh,27615
+819,0.35,120000,9/3/14,14-Sep,2014,1972,1972,1080,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+820,0.18,134000,8/26/04,4-Aug,2004,1972,1972,1480,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+822,0.27,263000,12/13/18,18-Dec,2018,1973,1973,2000,One Story,Conventional,2½ Bath,ALL,Raleigh,27615
+823,0.22,174000,10/16/15,15-Oct,2015,1980,1980,1900,One Story,Conventional,2½ Bath,ALL,Raleigh,27615
+824,0.4,95000,9/29/09,9-Sep,2009,1980,1980,1425,One Story,Conventional,2 Bath,ALL,Raleigh,27615
+825,0.19,138000,6/12/17,17-Jun,2017,1973,1973,1093,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+826,0.19,152000,7/30/09,9-Jul,2009,1973,1973,1221,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+827,0.18,88000,8/9/05,5-Aug,2005,1973,1973,1161,One Story,Conventional,2 Bath,ALL,Raleigh,27615
+829,0.16,29000,1/1/77,Jan-77,1977,1973,1973,1000,One Story,Conventional,1 Bath,ALL,Raleigh,27615
+830,0.19,101000,8/20/10,10-Aug,2010,1973,1973,920,One Story,Conventional,Other,ALL,Raleigh,27615
+831,0.19,23500,8/15/83,Aug-83,1983,1973,1973,1298,One Story,Conventional,2 Bath,ALL,Raleigh,27615
+832,0.28,165000,10/28/16,16-Oct,2016,1973,1973,1152,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+834,0.27,88000,10/25/95,Oct-95,1995,1971,1971,1254,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+835,0.25,100000,3/29/00,Mar-00,2000,1971,1971,1050,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+836,0.23,227000,10/30/20,20-Oct,2020,1972,1972,1080,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+837,0.23,109000,1/19/07,7-Jan,2007,1972,1972,1080,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+838,0.21,36000,1/1/78,Jan-78,1978,1972,1972,1020,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27615
+839,3,130000,12/12/03,3-Dec,2003,1947,1947,2022,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+840,0.61,800000,11/8/19,19-Nov,2019,1970,1970,3579,One Story,Split level,3 Bath,ALL,Cary,27511
+842,0.38,370000,2/19/19,19-Feb,2019,1967,1967,1875,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+846,0.29,31500,1/1/68,Jan-68,1968,1967,1967,2569,One Story,Split level,Other,ALL,Raleigh,27609
+847,0.26,140000,11/14/05,5-Nov,2005,1948,1948,1080,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+848,0.3,400000,8/16/18,18-Aug,2018,1960,1960,1563,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+849,0.4,257000,8/2/12,12-Aug,2012,1961,1961,1776,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+850,0.15,525000,5/2/16,16-May,2016,1909,1909,2286,Other,Conventional,2 Bath,ALL,Raleigh,27604
+852,0.27,120000,12/16/96,Dec-96,1996,1971,1971,1826,One Story,Split level,1 ½ Bath,ALL,Cary,27511
+853,0.29,180000,8/30/13,13-Aug,2013,1971,1971,1804,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+854,3.81,260000,8/10/17,17-Aug,2017,1937,1937,2228,Other,Conventional,2 Bath,WSE,Fuquay Varina,27526
+859,0.54,300000,6/20/07,7-Jun,2007,1968,1968,3294,One Story,Conventional,2½ Bath,WGE,Raleigh,27612
+860,0.28,307500,8/2/13,13-Aug,2013,1955,1955,1334,One Story,Conventional,1 Bath,ALL,Raleigh,27612
+867,0.7,301500,6/9/06,6-Jun,2006,1969,1969,2769,One Story,Split level,3 Bath,GE,Raleigh,27615
+870,0.86,232500,9/16/04,4-Sep,2004,1910,1910,2880,Other,Conventional,2½ Bath,WSE,Fuquay Varina,27526
+875,0.17,625000,4/6/21,21-Apr,2021,1930,1930,1536,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+877,0.47,97000,2/28/92,Feb-92,1992,1972,1972,1841,One Story,Split Foyer,3 Bath,E,Raleigh,27603
+878,0.47,305000,6/25/21,21-Jun,2021,1960,1960,1688,One Story,Ranch,2 Bath,E,Raleigh,27603
+882,0.17,1000,4/12/83,Apr-83,1983,1982,1982,864,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+888,0.63,240000,1/15/10,10-Jan,2010,1915,2010,3688,Other,Conventional,1 ½ Bath,ALL,Fuquay Varina,27526
+892,0.48,255000,1/12/21,21-Jan,2021,1954,1954,1039,One Story,Conventional,1 Bath,E,Wake Forest,27587
+892,0.48,255000,1/12/21,21-Jan,2021,1960,1960,1789,One Story,Conventional,1 Bath,E,Wake Forest,27587
+896,1.5,238400,5/11/17,17-May,2017,1954,1954,1523,One Story,Conventional,2 Bath,E,Apex,27539
+903,1.33,6100200,1/30/18,18-Jan,2018,1999,1999,5376,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+904,0.32,633000,9/30/20,20-Sep,2020,1961,1961,1838,One Story,Ranch,3 Bath,ALL,Raleigh,27609
+905,0.3,195000,1/30/02,2-Jan,2002,1969,1969,2010,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+906,0.43,130000,6/22/94,Jun-94,1994,1962,1962,2353,One Story,Split level,3½ Bath,ALL,Cary,27511
+907,0.58,230500,8/11/16,16-Aug,2016,1960,1960,1486,One Story,Ranch,1 ½ Bath,E,Raleigh,27615
+908,0.47,245000,5/6/86,May-86,1986,1967,1967,4074,Other,Conventional,2½ Bath,ALL,Raleigh,27609
+909,0.64,146500,8/6/12,12-Aug,2012,1955,1955,1706,One Story,Ranch,2 Bath,WSE,Wendell,27591
+910,0.42,330000,7/18/14,14-Jul,2014,1967,1967,2926,One Story,Split Foyer,3 Bath,ALL,Raleigh,27607
+911,0.4,227000,6/26/19,19-Jun,2019,1968,1968,1858,One Story,Split level,2 Bath,ALL,Raleigh,27609
+912,0.34,105000,7/1/08,8-Jul,2008,1920,1920,1296,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+912,0.34,105000,7/1/08,8-Jul,2008,1940,1940,1176,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+919,0.45,243000,6/1/15,15-Jun,2015,1918,1918,3313,Other,Conventional,3½ Bath,WSE,Fuquay Varina,27526
+920,0.62,35000,1/29/92,Jan-92,1992,1910,1910,2000,One Story,Conventional,2 Bath,WSE,Fuquay Varina,27526
+923,0.19,126000,7/11/17,17-Jul,2017,1920,1920,1374,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+925,0.17,25000,4/11/96,Apr-96,1996,1930,1930,1232,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+926,0.19,58000,2/21/06,6-Feb,2006,1936,1936,1198,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+938,0.25,35000,9/15/06,6-Sep,2006,1910,1910,1500,One Story,Conventional,1 ½ Bath,WSE,Fuquay Varina,27526
+941,0.17,55000,8/27/01,1-Aug,2001,1931,1931,1168,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+943,0.31,58000,1/6/11,11-Jan,2011,1930,1930,1176,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+943,0.31,58000,1/6/11,11-Jan,2011,1920,1920,1252,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+947,0.24,145000,10/20/15,15-Oct,2015,1970,1970,2272,Other,Conventional,2½ Bath,ALL,Raleigh,27610
+948,0.43,52000,9/29/92,Sep-92,1992,1948,1948,1762,One Story,Conventional,2 Bath,WSE,Fuquay Varina,27526
+951,0.29,70000,5/30/14,14-May,2014,1980,1980,1426,One Story,Conventional,1 ½ Bath,ALL,Holly Springs,27540
+957,1.68,250000,1/8/16,16-Jan,2016,1984,1984,2366,Two Story,Conventional,3 Bath,E,Fuquay Varina,27526
+960,1.58,400000,4/28/17,17-Apr,2017,1981,1981,3519,Other,Conventional,1 ½ Bath,E,Fuquay Varina,27526
+964,1.77,500000,1/6/20,20-Jan,2020,1982,1982,3421,Other,Conventional,2½ Bath,E,Fuquay Varina,27526
+967,2.24,325000,3/1/01,1-Mar,2001,1975,1975,2278,One Story,Conventional,2 Bath,E,Fuquay Varina,27526
+970,1.65,410000,12/14/16,16-Dec,2016,1989,1989,3319,One Story,Contemporary,3½ Bath,E,Fuquay Varina,27526
+985,0.37,203500,11/2/06,6-Nov,2006,1930,1930,2127,One Story,Conventional,2 Bath,WSE,Fuquay Varina,27526
+987,2.38,475000,11/23/15,15-Nov,2015,1970,1970,4726,Other,Conventional,3½ Bath,E,Fuquay Varina,27526
+996,0.27,225000,5/9/17,17-May,2017,1966,2016,2208,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+997,0.35,240000,3/24/17,17-Mar,2017,1971,1971,1753,One Story,Split level,2½ Bath,ALL,Cary,27511
+999,0.42,119000,12/2/88,Dec-88,1988,1956,1956,2500,Two Story,Conventional,3 Bath,ALL,Raleigh,27607
+1001,0.2,580000,3/29/21,21-Mar,2021,1928,1928,1705,Other,Conventional,1 ½ Bath,ALL,Raleigh,27608
+1001,0.2,580000,3/29/21,21-Mar,2021,1969,1969,1412,Other,Conventional,1 Bath,ALL,Raleigh,27608
+1002,0.31,325000,4/6/15,15-Apr,2015,1968,1968,2355,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1003,0.49,389000,8/8/13,13-Aug,2013,1963,1963,2868,One Story,Conventional,3 Bath,ALL,Raleigh,27612
+1004,0.1,12500,1/1/72,Jan-72,1972,1923,1923,1148,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+1005,0.15,265000,4/30/13,13-Apr,2013,1920,1920,1121,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+1006,0.09,37500,3/31/05,5-Mar,2005,1915,1915,1364,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+1009,0.37,142000,6/22/17,17-Jun,2017,1970,1970,1080,One Story,Conventional,1 ½ Bath,ALL,Garner,27529
+1013,0.48,32000,3/1/81,Mar-81,1981,1955,1955,1408,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+1015,0.65,340000,4/29/97,Apr-97,1997,1950,2017,2333,One Story,Conventional,3 Bath,ALL,Raleigh,27609
+1016,0.32,223000,9/27/19,19-Sep,2019,1961,1961,2114,One Story,Conventional,Other,ALL,Raleigh,27610
+1017,0.26,305000,7/26/19,19-Jul,2019,1960,2018,1520,One Story,Split level,2½ Bath,ALL,Raleigh,27610
+1018,0.43,24500,1/1/69,Jan-69,1969,1959,1959,2519,One Story,Split level,2 Bath,ALL,Cary,27511
+1019,0.74,94000,10/12/00,Oct-00,2000,1962,1962,1570,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+1021,2.09,1725000,5/11/21,21-May,2021,1964,1964,3948,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1024,0.47,218000,7/27/18,18-Jul,2018,1963,1963,1339,One Story,Split Foyer,2 Bath,ALL,Raleigh,27604
+1026,0.51,47500,1/1/79,Jan-79,1979,1963,1963,1500,One Story,Conventional,1 ½ Bath,GE,Raleigh,27606
+1027,0.25,250000,5/6/20,20-May,2020,1965,1965,1075,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27609
+1028,1.04,37000,1/1/77,Jan-77,1977,1959,1959,2025,One Story,Conventional,2 Bath,GE,Raleigh,27606
+1029,0.46,100000,2/16/15,15-Feb,2015,1956,1956,3292,Two Story,Conventional,3 Bath,WSE,Garner,27529
+1030,0.33,170000,5/11/05,5-May,2005,1988,1988,1483,Other,Conventional,2 Bath,ALL,Cary,27511
+1031,0.89,57000,1/1/76,Jan-76,1976,1966,1966,4505,One Story,Split level,3½ Bath,ALL,Cary,27511
+1032,0.47,129000,9/2/97,Sep-97,1997,1966,1966,1662,One Story,Conventional,2 Bath,WSE,Wake Forest,27587
+1033,0.79,1500,4/9/99,Apr-99,1999,1942,1942,2591,One Story,Conventional,3 Bath,ALL,Garner,27529
+1034,0.82,146500,7/30/91,Jul-91,1991,1971,1971,2428,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+1035,0.88,30500,5/11/99,May-99,1999,1951,1951,1128,One Story,Conventional,1 Bath,GE,Raleigh,27606
+1036,0.47,346500,10/1/98,Oct-98,1998,1955,1955,2717,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1037,0.04,195000,7/18/12,12-Jul,2012,1969,1969,2113,Other,Townhouse,3 Bath,ALL,Raleigh,27607
+1038,0.4,928000,2/8/13,13-Feb,2013,2009,2009,5281,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1041,0.36,119500,9/25/98,Sep-98,1998,1966,1966,1476,One Story,Split level,2½ Bath,ALL,Raleigh,27604
+1042,0.42,150000,9/24/90,Sep-90,1990,1970,1970,2408,Other,Conventional,3 Bath,ALL,Raleigh,27612
+1045,1.17,80000,11/4/04,4-Nov,2004,1963,1963,900,One Story,Conventional,1 Bath,E,New Hill,27562
+1046,0.2,260000,1/12/15,15-Jan,2015,2017,2017,2565,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1047,0.54,23000,1/1/70,Jan-70,1970,1970,1970,1500,One Story,Ranch,2 Bath,E,Knightdale,27545
+1048,0.21,262000,7/19/12,12-Jul,2012,1949,1949,1704,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27608
+1049,0.14,620000,4/19/18,18-Apr,2018,1978,2014,2625,Other,Conventional,3 Bath,ALL,Raleigh,27608
+1050,0.36,92000,11/25/91,Nov-91,1991,1965,1965,1606,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1051,0.46,460000,1/29/15,15-Jan,2015,1961,1961,3240,One Story,Split level,3 Bath,ALL,Raleigh,27609
+1052,0.45,128000,5/26/00,May-00,2000,1956,1956,1697,One Story,Conventional,1 Bath,ALL,Raleigh,27609
+1054,0.92,200000,10/31/07,7-Oct,2007,1968,1968,2035,One Story,Ranch,2 Bath,E,Raleigh,27606
+1056,0.84,117000,8/1/86,Aug-86,1986,1986,1986,1830,Other,Conventional,2½ Bath,E,Raleigh,27606
+1061,0.28,200000,10/31/00,Oct-00,2000,1951,1951,1690,One Story,Conventional,3 Bath,ALL,Raleigh,27608
+1068,0.35,105000,12/9/02,2-Dec,2002,1963,1963,1000,One Story,Conventional,Other,ALL,Raleigh,27610
+1071,0.41,262000,10/26/07,7-Oct,2007,1961,1961,2561,One Story,Conventional,2½ Bath,ALL,Cary,27511
+1072,0.41,27500,1/1/74,Jan-74,1974,1959,1959,1408,One Story,Conventional,1 Bath,ALL,Cary,27511
+1073,1.43,150000,9/26/17,17-Sep,2017,1955,1955,1421,One Story,Conventional,1 Bath,WGE,Garner,27529
+1076,0.42,150000,11/17/95,Nov-95,1995,1960,1960,2006,One Story,Ranch,2 Bath,ALL,Raleigh,27609
+1077,0.82,58600,12/20/18,18-Dec,2018,1952,1952,1861,One Story,Conventional,1 Bath,WGE,Garner,27529
+1082,0.57,369500,6/23/15,15-Jun,2015,2015,2015,2468,Other,Conventional,2½ Bath,E,Raleigh,27606
+1083,0.48,333500,6/10/21,21-Jun,2021,1968,1968,1371,One Story,Ranch,2 Bath,E,Raleigh,27606
+1092,0.33,105000,6/28/01,1-Jun,2001,1965,1965,1507,One Story,Ranch,2 Bath,ALL,Garner,27529
+1094,0.34,260000,1/5/09,9-Jan,2009,1958,1958,1862,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+1099,0.43,48000,1/1/79,Jan-79,1979,1959,1959,1726,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+1100,0.39,42500,1/1/77,Jan-77,1977,1966,1966,1655,One Story,Split level,2½ Bath,ALL,Raleigh,27606
+1107,1,129000,9/23/05,5-Sep,2005,1967,1967,1462,One Story,Conventional,1 ½ Bath,E,Raleigh,27603
+1108,0.14,799000,7/20/18,18-Jul,2018,2018,2018,2866,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1109,0.41,805000,5/3/13,13-May,2013,1951,1951,3562,Two Story,Conventional,3½ Bath,ALL,Raleigh,27608
+1110,0.61,457500,4/15/13,13-Apr,2013,1971,1971,3743,Other,Conventional,3½ Bath,ALL,Raleigh,27612
+1116,0.94,168000,11/24/99,Nov-99,1999,2018,2018,2983,One Story,Conventional,3½ Bath,ALL,Raleigh,27609
+1117,0.35,105000,8/22/97,Aug-97,1997,1969,1969,1558,One Story,Ranch,2 Bath,ALL,Garner,27529
+1121,0.2,345000,11/10/16,16-Nov,2016,1927,1927,1321,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1126,0.12,125000,5/17/21,21-May,2021,1954,1954,884,One Story,Conventional,1 Bath,WSE,Zebulon,27597
+1136,0.18,190000,2/21/12,12-Feb,2012,1920,1920,1275,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1137,0.22,60000,9/28/17,17-Sep,2017,1905,1905,1022,One Story,Conventional,1 Bath,ALL,Wake Forest,27587
+1139,0.46,104000,3/1/13,13-Mar,2013,1963,1963,1522,One Story,Conventional,1 ½ Bath,GE,Raleigh,27604
+1141,0.33,1105000,5/15/15,15-May,2015,2015,2015,3677,Two Story,Conventional,3½ Bath,ALL,Raleigh,27608
+1143,0.49,33500,7/1/10,10-Jul,2010,1960,1960,1465,One Story,Conventional,1 Bath,E,Zebulon,27597
+1144,0.44,177000,6/28/18,18-Jun,2018,1964,1964,1479,One Story,Conventional,2 Bath,E,Raleigh,27613
+1147,0.14,349000,2/16/18,18-Feb,2018,1929,1929,1365,One Story,Conventional,2½ Bath,ALL,Raleigh,27608
+1148,0.33,152000,1/21/09,9-Jan,2009,1961,1961,1894,One Story,Split level,2 Bath,ALL,Raleigh,27604
+1149,0.31,415000,4/23/02,2-Apr,2002,1929,1929,3986,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1153,0.25,88500,11/15/99,Nov-99,1999,1968,1968,1390,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27610
+1155,1.02,257500,5/19/15,15-May,2015,1955,1955,2426,Two Story,Conventional,2 Bath,ALL,Raleigh,27610
+1157,0.33,180000,3/30/01,1-Mar,2001,1971,1971,2205,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+1160,0.79,240000,7/16/07,7-Jul,2007,1962,1962,2673,One Story,Conventional,2½ Bath,WSE,Zebulon,27597
+1166,0.33,65000,2/28/07,7-Feb,2007,1977,1977,1040,One Story,Ranch,1 ½ Bath,WSE,Zebulon,27597
+1168,0.58,42000,1/1/76,Jan-76,1976,1966,1966,1798,One Story,Conventional,2 Bath,E,Raleigh,27604
+1170,0.21,125000,9/29/16,16-Sep,2016,1962,1962,1144,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27604
+1171,0.33,115000,1/28/20,20-Jan,2020,1910,1910,1716,One Story,Conventional,1 Bath,WSE,Zebulon,27597
+1172,0.35,12000,1/1/70,Jan-70,1970,1952,1952,1400,One Story,Conventional,1 Bath,ALL,Garner,27529
+1173,1.13,101000,9/5/08,8-Sep,2008,1970,1970,1680,One Story,Conventional,2 Bath,E,Zebulon,27597
+1174,0.21,347500,6/4/21,21-Jun,2021,1949,1949,768,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1179,0.46,75000,2/27/85,Feb-85,1985,1969,1969,1579,One Story,Conventional,2 Bath,E,Raleigh,27604
+1181,1.28,147000,1/24/13,13-Jan,2013,1967,1967,1330,One Story,Ranch,1 ½ Bath,E,Wake Forest,27587
+1183,0.46,145000,10/5/20,20-Oct,2020,1966,1966,875,One Story,Conventional,1 Bath,E,Wendell,27591
+1184,0.22,65500,8/29/12,12-Aug,2012,1954,1954,1012,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1188,0.19,12500,1/1/75,Jan-75,1975,1946,1946,1220,One Story,Conventional,1 Bath,ALL,Wake Forest,27587
+1192,0.24,395000,8/16/19,19-Aug,2019,1959,1959,1491,One Story,Ranch,2 Bath,ALL,Raleigh,27604
+1193,0.32,157000,7/16/93,Jul-93,1993,1958,1958,2942,One Story,Conventional,3½ Bath,ALL,Raleigh,27609
+1194,1,120000,6/13/06,6-Jun,2006,1967,1967,1596,One Story,Conventional,1 ½ Bath,E,Zebulon,27597
+1196,0.2,12500,9/2/86,Sep-86,1986,1957,1957,1344,One Story,Conventional,1 ½ Bath,WSE,Wendell,27591
+1197,0.46,97000,9/22/00,Sep-00,2000,1959,1959,1040,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1200,0.49,139000,4/5/07,7-Apr,2007,1915,1915,1928,One Story,Conventional,2 Bath,WSE,Wendell,27591
+1201,0.24,39000,1/1/79,Jan-79,1979,1961,1961,1325,One Story,Ranch,2 Bath,ALL,Raleigh,27610
+1202,0.46,103000,1/20/16,16-Jan,2016,1990,1990,1182,One Story,Conventional,2 Bath,E,Garner,27529
+1203,0.92,3000,1/1/71,Jan-71,1971,1971,1971,1402,One Story,Conventional,2 Bath,E,Wake Forest,27587
+1205,0.47,50000,7/5/07,7-Jul,2007,1964,1964,2025,One Story,Ranch,2½ Bath,WSE,Wendell,27591
+1206,0.26,3000,8/21/19,19-Aug,2019,1952,2020,2822,One Story,Conventional,3½ Bath,ALL,Raleigh,27605
+1207,0.39,100000,10/4/01,1-Oct,2001,1965,1965,1175,One Story,Conventional,1 ½ Bath,ALL,Wake Forest,27587
+1209,0.53,105000,2/18/13,13-Feb,2013,1966,1966,1400,One Story,Ranch,1 ½ Bath,WE,Rolesville,27571
+1210,0.28,225000,6/21/10,10-Jun,2010,1968,1968,2292,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+1211,0.2,72500,9/14/05,5-Sep,2005,1959,1959,1188,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27610
+1213,0.22,179000,5/12/16,16-May,2016,1956,1956,1012,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1214,0.31,109000,5/12/92,May-92,1992,1970,1970,1959,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+1216,0.65,76500,1/1/75,Jan-75,1975,1971,1971,3526,One Story,Conventional,3 Bath,WGE,Raleigh,27613
+1217,0.94,240000,7/26/02,2-Jul,2002,1972,2019,2524,One Story,Split level,3 Bath,E,Raleigh,27615
+1218,0.43,128500,10/30/86,Oct-86,1986,1970,1970,2186,Other,Conventional,2½ Bath,ALL,Raleigh,27609
+1221,0.2,67000,8/12/11,11-Aug,2011,1950,1950,755,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1222,0.41,194500,11/12/04,4-Nov,2004,1969,1969,2619,One Story,Split level,2½ Bath,ALL,Raleigh,27610
+1224,0.31,477000,5/26/11,11-May,2011,1950,2008,1963,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+1227,0.18,170000,8/7/19,19-Aug,2019,2006,2006,1077,One Story,Conventional,2 Bath,WSE,Fuquay Varina,27526
+1229,0.34,312000,6/26/91,Jun-91,1991,1946,1946,3508,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1231,0.26,98500,8/28/84,Aug-84,1984,1927,1927,1876,Two Story,Conventional,2½ Bath,ALL,Raleigh,27608
+1232,0.68,540000,3/16/93,Mar-93,1993,1965,1965,4852,Other,Conventional,3½ Bath,ALL,Raleigh,27607
+1235,0.36,67000,1/1/78,Jan-78,1978,1968,1968,2809,One Story,Conventional,2½ Bath,ALL,Raleigh,27612
+1236,0.23,95000,5/27/88,May-88,1988,1940,1940,1419,One Story,Conventional,1 Bath,ALL,Raleigh,27608
+1248,0.6,167000,9/16/82,Sep-82,1982,1993,1993,2964,One Story,Conventional,3 Bath,ALL,Cary,27511
+1249,0.45,20000,1/1/71,Jan-71,1971,1961,1961,1584,One Story,Conventional,2½ Bath,E,Raleigh,27610
+1251,0.21,290000,6/30/99,Jun-99,1999,1941,1941,1972,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+1251,0.21,290000,6/30/99,Jun-99,1999,2006,2006,448,One Story,Conventional,1 Bath,ALL,Raleigh,27608
+1252,0.4,150000,7/17/15,15-Jul,2015,1956,1956,1736,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1253,0.37,583000,3/17/16,16-Mar,2016,1947,1947,2852,One Story,Conventional,2½ Bath,,Raleigh,27608
+1254,1,93000,5/2/89,May-89,1989,1967,1967,3016,One Story,Conventional,Other,E,Wake Forest,27587
+1258,3.23,60000,8/31/93,Aug-93,1993,1981,1981,1114,Other,Conventional,2 Bath,ALL,Garner,27529
+1259,0.49,77000,4/24/84,Apr-84,1984,1953,1953,3058,One Story,Conventional,3½ Bath,ALL,Raleigh,27606
+1260,0.37,25000,11/7/07,7-Nov,2007,1987,1987,984,One Story,Conventional,2 Bath,ALL,Garner,27529
+1263,0.11,0,10/1/85,Oct-85,1985,1930,1930,1191,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+1264,0.14,55500,8/14/97,Aug-97,1997,1915,1915,1424,Other,Conventional,2 Bath,ALL,Raleigh,27601
+1270,0.5,120000,3/26/96,Mar-96,1996,1960,1960,1544,One Story,Conventional,Other,WSE,Raleigh,27603
+1271,0.38,175000,10/14/16,16-Oct,2016,1959,1959,2037,One Story,Ranch,3 Bath,ALL,Garner,27529
+1272,0.27,204000,9/28/07,7-Sep,2007,1968,1968,1946,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+1273,0.21,220000,5/29/14,14-May,2014,1956,1956,936,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1274,0.3,450000,2/5/08,8-Feb,2008,1953,1953,3856,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1276,0.44,160000,7/24/15,15-Jul,2015,1969,1969,1620,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+1277,0.29,63000,9/21/95,Sep-95,1995,1960,1960,1714,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1278,0.27,32000,8/28/18,18-Aug,2018,1920,2020,1212,One Story,Conventional,1 Bath,WSE,Knightdale,27545
+1286,1.89,295000,6/16/97,Jun-97,1997,1973,1973,4136,Other,Conventional,Other,E,Raleigh,27606
+1289,0.17,559000,8/28/20,20-Aug,2020,1920,1920,1498,One Story,Conventional,1 Bath,ALL,Raleigh,27605
+1290,0.11,144000,12/10/97,Dec-97,1997,1950,2009,2658,Other,Conventional,3 Bath,ALL,Raleigh,27605
+1291,0.37,606000,7/19/19,19-Jul,2019,1930,1930,1699,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+1292,0.39,300000,6/16/17,17-Jun,2017,1954,1954,2575,One Story,Conventional,2½ Bath,WSE,Fuquay Varina,27526
+1293,0.35,358000,2/28/18,18-Feb,2018,1971,1971,2485,One Story,Split Foyer,3 Bath,ALL,Raleigh,27615
+1294,1.36,155000,2/9/10,10-Feb,2010,1964,1964,1680,One Story,Conventional,2½ Bath,E,Wake Forest,27587
+1295,2.25,74000,4/23/03,3-Apr,2003,1961,1961,989,One Story,Conventional,1 Bath,E,Garner,27529
+1296,0.2,121500,12/22/00,Dec-00,2000,1930,1930,1870,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+1297,0.22,107500,7/13/07,7-Jul,2007,1949,1949,2316,Other,Conventional,2½ Bath,WSE,Fuquay Varina,27526
+1300,0.25,26000,1/1/70,Jan-70,1970,1970,1970,1727,One Story,Conventional,2½ Bath,ALL,Raleigh,27610
+1302,0.41,250000,11/20/14,14-Nov,2014,1967,1967,2318,Other,Conventional,3 Bath,ALL,Cary,27511
+1304,6.4,286000,8/26/11,11-Aug,2011,1963,1963,2015,One Story,Ranch,2½ Bath,ALL,Garner,27529
+1307,0.35,390000,6/14/10,10-Jun,2010,1946,1946,1707,Other,Conventional,2 Bath,ALL,Raleigh,27607
+1309,0.47,229000,12/7/12,12-Dec,2012,1961,2016,2376,One Story,Conventional,3 Bath,ALL,Raleigh,27609
+1315,0.19,505000,10/25/16,16-Oct,2016,1925,1925,1967,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+1317,0.35,2500,1/1/79,Jan-79,1979,1987,1987,1269,One Story,Conventional,2 Bath,ALL,Wake Forest,27587
+1319,0.23,125000,2/6/20,20-Feb,2020,1950,1950,930,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+1322,0.09,195000,8/22/19,19-Aug,2019,1930,1930,1122,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1323,0.15,199500,6/14/11,11-Jun,2011,1925,2017,2008,One Story,Conventional,2 Bath,ALL,Raleigh,27605
+1326,1.87,314000,3/23/07,7-Mar,2007,1999,1999,2420,One Story,Conventional,3 Bath,WSE,Wake Forest,27587
+1327,0.77,179000,7/29/19,19-Jul,2019,1910,1910,1401,One Story,Conventional,1 Bath,E,Wake Forest,27587
+1330,0.59,180000,4/19/13,13-Apr,2013,1969,2015,2814,One Story,Split level,3 Bath,ALL,Raleigh,27615
+1335,0.17,380000,6/20/14,14-Jun,2014,1928,1928,2334,One Story,Conventional,3½ Bath,ALL,Raleigh,27608
+1338,0.17,210000,11/30/06,6-Nov,2006,1923,2017,1734,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+1342,0.28,27000,1/1/72,Jan-72,1972,1971,1971,1425,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+1344,0.59,39500,7/1/05,5-Jul,2005,1968,1968,640,One Story,Conventional,1 Bath,E,Wake Forest,27587
+1345,0.72,230000,7/5/85,Jul-85,1985,1966,1966,2815,Other,Conventional,2½ Bath,ALL,Raleigh,27612
+1346,0.26,358000,7/29/16,16-Jul,2016,1956,2016,1674,One Story,Conventional,1 Bath,ALL,Raleigh,27607
+1347,0.97,98500,2/24/87,Feb-87,1987,1970,1970,2126,One Story,Ranch,2 Bath,ALL,Cary,27511
+1349,0.58,90000,3/29/16,16-Mar,2016,1994,1994,1248,One Story,Conventional,2 Bath,ALL,Apex,27502
+1350,0.15,551500,11/2/09,9-Nov,2009,1930,1930,3017,Other,Conventional,3 Bath,ALL,Raleigh,27608
+1351,0.3,29000,1/1/72,Jan-72,1972,1971,1971,1617,One Story,Conventional,1 ½ Bath,ALL,Cary,27511
+1353,0.46,170000,8/22/18,18-Aug,2018,1957,2018,1900,One Story,Split level,3 Bath,E,Raleigh,27604
+1354,0.78,2000,8/8/19,19-Aug,2019,1967,1967,1622,One Story,Conventional,2 Bath,E,Raleigh,27603
+1355,0.53,11000,2/23/95,Feb-95,1995,1908,1908,1160,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+1356,0.2,255000,7/18/14,14-Jul,2014,1943,1943,1446,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+1357,0.46,70000,6/20/14,14-Jun,2014,1967,1967,2131,One Story,Split level,2½ Bath,E,Raleigh,27604
+1358,1.05,55000,12/22/86,Dec-86,1986,1970,1970,1203,One Story,Conventional,1 Bath,E,Garner,27529
+1360,1.31,152000,6/7/00,Jun-00,2000,1965,1965,2966,One Story,Conventional,2 Bath,E,Raleigh,27616
+1361,0.22,62000,3/25/93,Mar-93,1993,1950,1950,1326,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+1366,0.41,27500,1/1/78,Jan-78,1978,1972,1972,1253,One Story,Ranch,1 ½ Bath,E,Wendell,27591
+1369,0.25,40000,6/3/87,Jun-87,1987,1972,1972,1216,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27604
+1370,0.36,340000,4/30/20,20-Apr,2020,1963,2008,2196,One Story,Split level,2 Bath,ALL,Raleigh,27606
+1371,0.31,94000,6/7/91,Jun-91,1991,1968,1968,2081,One Story,Split Foyer,2½ Bath,ALL,Raleigh,27604
+1373,0.18,70000,5/29/19,19-May,2019,1959,1959,975,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1374,0.4,43000,1/1/73,Jan-73,1973,1970,1970,2253,One Story,Split Foyer,2½ Bath,ALL,Raleigh,27609
+1377,0.46,257500,9/1/20,20-Sep,2020,1965,1965,1741,One Story,Conventional,2 Bath,WSE,Garner,27529
+1378,0.28,245000,12/21/16,16-Dec,2016,1967,1967,1915,One Story,Split level,2½ Bath,ALL,Cary,27511
+1382,0.46,59000,11/13/91,Nov-91,1991,1960,1960,1008,One Story,Conventional,1 Bath,WSE,Garner,27529
+1385,0.39,675000,4/1/20,20-Apr,2020,1964,2017,2290,One Story,Conventional,2½ Bath,ALL,Raleigh,27609
+1386,0.29,278500,1/22/21,21-Jan,2021,1967,1967,2164,One Story,Split level,3½ Bath,ALL,Raleigh,27603
+1387,0.52,188000,5/24/10,10-May,2010,1961,1961,1416,One Story,Ranch,1 ½ Bath,WSE,Raleigh,27609
+1388,1.62,104000,3/10/15,15-Mar,2015,1910,1910,1239,One Story,Conventional,1 Bath,GE,Raleigh,27604
+1389,0.75,107000,6/18/98,Jun-98,1998,1977,1977,1125,One Story,Conventional,2 Bath,GE,Raleigh,27604
+1394,0.34,72000,8/16/02,2-Aug,2002,1940,1940,1011,One Story,Conventional,1 Bath,WSE,Fuquay Varina,27526
+1396,0.23,71500,6/13/97,Jun-97,1997,1963,1963,1000,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1400,0.58,370000,6/2/04,4-Jun,2004,1901,1901,4308,Other,Conventional,Other,ALL,Wake Forest,27587
+1403,0.46,2000,1/1/72,Jan-72,1972,2015,2015,1838,One Story,Conventional,2 Bath,E,Raleigh,27615
+1405,0.26,900000,6/20/16,16-Jun,2016,1938,2006,3031,Other,Conventional,2½ Bath,ALL,Raleigh,27608
+1406,0.3,131000,12/14/98,Dec-98,1998,1969,1969,1986,One Story,Split level,2 Bath,ALL,Raleigh,27603
+1407,6.17,541000,5/21/14,14-May,2014,2014,2014,3951,Two Story,Conventional,3 Bath,E,Wake Forest,27587
+1413,0.46,602000,4/12/19,19-Apr,2019,1956,1956,1792,One Story,Conventional,3 Bath,ALL,Raleigh,27608
+1416,0.61,47000,10/20/10,10-Oct,2010,1955,1955,1092,One Story,Conventional,1 Bath,ALL,Garner,27529
+1417,0.39,105000,3/30/00,Mar-00,2000,1969,1969,1292,One Story,Ranch,1 ½ Bath,WE,Garner,27529
+1418,0.15,56000,3/27/17,17-Mar,2017,1930,1930,708,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1419,0.09,415000,3/28/18,18-Mar,2018,2017,2017,1576,Other,Contemporary,2½ Bath,ALL,Raleigh,27601
+1423,0.06,1000,7/21/04,4-Jul,2004,1915,1915,586,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+1424,0.07,50000,6/20/13,13-Jun,2013,1920,1920,992,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+1425,0.14,62500,7/8/99,Jul-99,1999,1923,1923,2369,One Story,Conventional,3 Bath,ALL,Raleigh,27603
+1427,0.29,54500,5/21/82,May-82,1982,1968,1968,1815,One Story,Split level,2 Bath,ALL,Garner,27529
+1428,0.47,83000,10/28/86,Oct-86,1986,1985,1985,1242,One Story,Conventional,2 Bath,E,Raleigh,27603
+1429,0.49,107500,11/25/14,14-Nov,2014,1985,1985,1568,One Story,Conventional,2 Bath,E,Raleigh,27603
+1430,0.48,80000,4/30/86,Apr-86,1986,1985,1985,1302,One Story,Conventional,2 Bath,E,Raleigh,27603
+1431,0.23,136000,2/13/01,1-Feb,2001,1968,1968,1793,One Story,Split level,2 Bath,ALL,Raleigh,27603
+1433,0.59,611000,10/4/18,18-Oct,2018,1961,2017,2490,One Story,Conventional,3 Bath,ALL,Raleigh,27609
+1434,0.16,470000,6/12/13,13-Jun,2013,1920,2019,2693,One Story,Conventional,3½ Bath,ALL,Raleigh,27605
+1436,0.51,142500,12/11/96,Dec-96,1996,1966,1966,2193,One Story,Ranch,2 Bath,WGE,Raleigh,27607
+1442,0.85,0,4/23/86,Apr-86,1986,1969,1969,1272,One Story,Conventional,1 Bath,E,Fuquay Varina,27526
+1442,0.85,0,4/23/86,Apr-86,1986,1969,1969,1026,One Story,Conventional,1 Bath,E,Fuquay Varina,27526
+1443,0.23,225000,6/14/10,10-Jun,2010,2020,2020,2974,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1446,0.49,262000,10/9/95,Oct-95,1995,1962,1962,2103,One Story,Split level,3 Bath,ALL,Raleigh,27612
+1447,0.32,63000,5/5/86,May-86,1986,1959,1959,1176,One Story,Ranch,1 ½ Bath,ALL,Garner,27529
+1448,0.33,195000,4/21/17,17-Apr,2017,1969,1969,1580,One Story,Ranch,2 Bath,ALL,Cary,27511
+1449,0.19,650000,6/25/21,21-Jun,2021,1927,1927,2978,One Story,Conventional,3 Bath,ALL,Raleigh,27608
+1456,2.81,510000,3/16/18,18-Mar,2018,1994,1994,3349,Other,Conventional,3½ Bath,WSE,Raleigh,27614
+1457,0.15,335000,6/16/04,4-Jun,2004,1920,1920,2317,One Story,Conventional,2 Bath,ALL,Raleigh,27601
+1459,0.18,350000,5/17/21,21-May,2021,1949,1949,1008,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1460,0.17,362000,3/6/18,18-Mar,2018,1926,1926,1140,One Story,Conventional,1 Bath,ALL,Raleigh,27608
+1461,0.57,155000,6/28/13,13-Jun,2013,1971,1971,1753,One Story,Split level,2½ Bath,WGE,Raleigh,27604
+1462,0.15,538000,2/8/21,21-Feb,2021,1923,1923,1628,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+1463,0.1,485000,4/1/19,19-Apr,2019,2018,2018,2006,Other,Conventional,2½ Bath,ALL,Raleigh,27610
+1467,0.47,28000,1/1/76,Jan-76,1976,1971,1971,1395,One Story,Conventional,1 ½ Bath,E,Apex,27502
+1468,0.32,117000,3/28/94,Mar-94,1994,1970,1970,1911,One Story,Split Foyer,2 Bath,ALL,Garner,27529
+1469,0.29,69000,9/30/11,11-Sep,2011,1968,2019,720,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1470,0.33,520000,1/30/15,15-Jan,2015,2014,2014,3042,Other,Conventional,2½ Bath,ALL,Raleigh,27604
+1472,0.29,2000,8/12/82,Aug-82,1982,1963,1963,1950,One Story,Ranch,2 Bath,WSE,Garner,27529
+1473,0.37,35500,1/1/76,Jan-76,1976,1967,1967,1636,One Story,Ranch,2 Bath,ALL,Garner,27529
+1477,12.54,375000,9/9/03,3-Sep,2003,1920,1920,2434,Two Story,Conventional,2½ Bath,E,Apex,27502
+1477,12.54,375000,9/9/03,3-Sep,2003,1942,1942,1772,One Story,Conventional,1 ½ Bath,E,Apex,27502
+1478,0.49,235000,2/22/19,19-Feb,2019,2018,2018,1750,Other,Conventional,2½ Bath,E,Raleigh,27603
+1479,0.69,270000,6/15/16,16-Jun,2016,1964,1964,1996,One Story,Conventional,3 Bath,E,Raleigh,27615
+1491,0.26,345000,9/24/12,12-Sep,2012,1955,1955,1514,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27608
+1494,0.14,373500,8/28/14,14-Aug,2014,2001,2001,1962,Other,Conventional,3½ Bath,ALL,Raleigh,27601
+1496,0.57,267500,5/27/03,3-May,2003,1969,1969,2149,One Story,Conventional,3 Bath,WGE,Raleigh,27612
+1498,1.1,90000,11/19/93,Nov-93,1993,1967,1967,1492,One Story,Conventional,1 ½ Bath,E,Raleigh,27606
+1499,0.34,108000,12/2/99,Dec-99,1999,1971,1971,1142,One Story,Ranch,2 Bath,ALL,Garner,27529
+1506,0.2,113000,8/4/06,6-Aug,2006,1950,1950,820,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1507,0.22,435000,4/18/16,16-Apr,2016,1957,2015,1800,One Story,Conventional,2 Bath,ALL,Raleigh,27601
+1508,0.33,48000,9/14/84,Sep-84,1984,1976,1976,1515,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+1509,0.39,62000,6/23/16,16-Jun,2016,1945,1945,1411,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+1510,1,40000,1/1/79,Jan-79,1979,1961,1961,975,One Story,Ranch,1 Bath,E,Raleigh,27603
+1511,0.36,330000,9/20/19,19-Sep,2019,1965,1965,2744,One Story,Split Foyer,3 Bath,ALL,Raleigh,27612
+1514,0.26,849000,6/26/20,20-Jun,2020,1960,2018,2142,One Story,Contemporary,3½ Bath,ALL,Raleigh,27601
+1515,0.26,130000,5/15/08,8-May,2008,1956,1956,1012,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1516,0.24,287000,6/8/16,16-Jun,2016,1960,1960,1418,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+1525,0.78,276500,7/9/21,21-Jul,2021,1950,1950,1580,One Story,Conventional,2 Bath,E,Raleigh,27604
+1526,0.04,368000,5/13/19,19-May,2019,2015,2015,1280,Other,Conventional,2½ Bath,ALL,Raleigh,27601
+1527,0.04,330000,12/4/19,19-Dec,2019,2011,2011,1216,Other,Conventional,2½ Bath,ALL,Raleigh,27601
+1532,0.1,308000,5/19/15,15-May,2015,1894,2018,1697,Other,Conventional,2½ Bath,ALL,Raleigh,27601
+1533,0.07,12500,4/13/12,12-Apr,2012,1920,1920,697,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+1534,0.08,12500,4/13/12,12-Apr,2012,1920,1920,697,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+1537,0.04,262500,5/6/16,16-May,2016,2007,2007,1280,Other,Conventional,2 Bath,ALL,Raleigh,27601
+1538,0.1,222500,8/11/14,14-Aug,2014,2003,2003,1080,One Story,Conventional,2 Bath,ALL,Raleigh,27601
+1539,0.18,775000,1/13/21,21-Jan,2021,2013,2013,2696,Other,Conventional,3 Bath,ALL,Raleigh,27608
+1540,0.14,185000,12/15/06,6-Dec,2006,1980,1980,1137,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1541,0.2,340000,12/23/19,19-Dec,2019,1951,1951,1230,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27604
+1542,1.4,138000,11/25/15,15-Nov,2015,1978,1978,2158,One Story,Ranch,2 Bath,GE,Raleigh,27604
+1549,0.76,225000,9/21/15,15-Sep,2015,1966,1966,2412,One Story,Conventional,2½ Bath,GE,Raleigh,27604
+1551,0.38,385000,5/22/19,19-May,2019,1956,1956,1323,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+1552,0.23,281000,6/28/13,13-Jun,2013,1938,1938,1174,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27608
+1554,0.59,430000,6/24/20,20-Jun,2020,1960,1960,1349,One Story,Ranch,3 Bath,ALL,Raleigh,27609
+1556,0.54,1500,1/1/78,Jan-78,1978,1979,1979,1641,One Story,Conventional,1 ½ Bath,E,Raleigh,27607
+1560,0.32,143000,12/28/01,1-Dec,2001,1957,1957,1716,One Story,Conventional,2 Bath,ALL,Cary,27511
+1561,0.49,770000,5/29/13,13-May,2013,1969,1969,4392,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1563,1.04,3500,1/13/21,21-Jan,2021,1970,1970,2046,Other,Conventional,2½ Bath,ALL,Raleigh,27614
+1564,0.25,953000,7/27/17,17-Jul,2017,2016,2016,3997,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1565,0.34,815000,5/29/20,20-May,2020,2019,2019,3161,Other,Conventional,3 Bath,ALL,Raleigh,27609
+1567,0.31,103000,7/7/05,5-Jul,2005,1960,1960,1755,One Story,Ranch,2 Bath,ALL,Cary,27513
+1569,0.34,1670000,12/2/19,19-Dec,2019,1928,2016,3873,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1571,0.45,150000,12/6/17,17-Dec,2017,1965,1965,2003,One Story,Split level,2 Bath,ALL,Raleigh,27604
+1572,0.25,72500,4/24/92,Apr-92,1992,1957,1957,1413,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+1574,0.13,340500,12/1/06,6-Dec,2006,1950,1950,1241,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+1575,0.34,34500,5/22/03,3-May,2003,2008,2008,1728,One Story,Conventional,2½ Bath,E,Raleigh,27606
+1576,0.59,289000,7/7/14,14-Jul,2014,1966,1966,2627,One Story,Split level,3 Bath,ALL,Cary,27511
+1578,0.19,125000,3/14/19,19-Mar,2019,1945,1945,992,One Story,Conventional,1 Bath,WSE,Wendell,27591
+1579,0.51,142500,8/30/04,4-Aug,2004,1957,1957,1825,One Story,Conventional,2 Bath,ALL,Raleigh,27606
+1581,0.5,105000,7/29/96,Jul-96,1996,1970,1970,1296,One Story,Conventional,1 ½ Bath,E,Raleigh,27604
+1582,0.32,492000,12/6/06,6-Dec,2006,1951,1951,2224,Other,Conventional,3 Bath,ALL,Raleigh,27609
+1584,0.16,1200000,12/21/20,20-Dec,2020,1920,1920,2991,Other,Conventional,3 Bath,ALL,Raleigh,27605
+1585,0.1,332000,6/28/18,18-Jun,2018,1925,1925,1410,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+1587,0.29,190000,12/14/01,1-Dec,2001,1967,1967,3674,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1588,0.34,52000,4/2/91,Apr-91,1991,1969,1969,1107,One Story,Ranch,1 ½ Bath,WE,Garner,27529
+1590,0.46,200000,4/1/20,20-Apr,2020,1947,1947,2562,Other,Conventional,2 Bath,WSE,Zebulon,27597
+1591,1,158000,11/14/18,18-Nov,2018,1970,1970,1266,One Story,Conventional,1 ½ Bath,E,Zebulon,27597
+1593,0.33,60000,3/3/03,3-Mar,2003,1965,1965,1000,One Story,Ranch,1 Bath,WE,Garner,27529
+1595,0.39,530000,6/15/10,10-Jun,2010,1961,2019,2560,One Story,Conventional,2½ Bath,ALL,Raleigh,27612
+1596,0.24,81000,10/31/91,Oct-91,1991,1950,1950,1299,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27607
+1597,0.3,200000,11/13/09,9-Nov,2009,1963,1963,1707,One Story,Split level,2 Bath,ALL,Cary,27511
+1598,0.44,340000,2/19/19,19-Feb,2019,1966,1966,1791,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+1599,0.6,290000,8/10/18,18-Aug,2018,1963,1963,1687,One Story,Ranch,2 Bath,WE,Raleigh,27613
+1600,0.46,144000,6/1/99,Jun-99,1999,1958,1958,1592,One Story,Split level,1 ½ Bath,ALL,Raleigh,27606
+1601,0.24,16000,1/1/74,Jan-74,1974,1955,1955,972,One Story,Conventional,1 Bath,ALL,Raleigh,27606
+1602,0.16,160000,8/2/05,5-Aug,2005,1933,1933,1500,Two Story,Conventional,2 Bath,ALL,Raleigh,27604
+1603,0.64,260000,6/1/87,Jun-87,1987,1941,1941,5328,Other,Conventional,2½ Bath,ALL,Raleigh,27609
+1605,0.42,116500,5/6/94,May-94,1994,1963,1963,2393,One Story,Split level,2½ Bath,ALL,Raleigh,27603
+1606,0.56,385000,12/14/12,12-Dec,2012,1948,1948,3273,One Story,Conventional,2½ Bath,ALL,Raleigh,27608
+1607,0.4,165000,6/23/00,Jun-00,2000,1965,1965,2112,One Story,Split level,2 Bath,ALL,Raleigh,27606
+1608,0.6,97500,9/5/89,Sep-89,1989,1972,1972,2218,One Story,Split level,2½ Bath,E,Cary,27511
+1611,12,571000,7/19/19,19-Jul,2019,1978,1978,2896,One Story,Split level,3½ Bath,E,Raleigh,27616
+1613,0.2,15500,1/1/77,Jan-77,1977,1950,1950,796,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1614,0.48,175000,8/21/17,17-Aug,2017,1965,1965,1404,One Story,Conventional,2 Bath,GE,Raleigh,27604
+1615,0.18,333500,8/3/17,17-Aug,2017,1948,2015,1488,Two Story,Conventional,1 Bath,ALL,Raleigh,27608
+1619,0.32,34000,1/1/71,Jan-71,1971,1972,1972,1713,One Story,Split level,1 ½ Bath,ALL,Cary,27511
+1620,0.21,1000,7/30/87,Jul-87,1987,1948,1948,968,One Story,Conventional,1 Bath,WSE,Wendell,27591
+1625,2.23,219000,8/8/94,Aug-94,1994,1984,1984,2620,One Story,Conventional,3½ Bath,WGE,Raleigh,27613
+1626,0.46,55000,1/1/78,Jan-78,1978,1968,1968,2241,One Story,Ranch,2 Bath,WGE,Raleigh,27607
+1627,1.08,225000,12/8/17,17-Dec,2017,1920,1920,2767,Two Story,Conventional,1 Bath,E,Wendell,27591
+1634,0.4,350000,6/29/98,Jun-98,1998,1959,1959,2346,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1635,0.32,77000,8/1/84,Aug-84,1984,1967,1967,1875,One Story,Split level,2½ Bath,ALL,Cary,27511
+1636,0.49,405000,12/10/10,10-Dec,2010,1962,1962,2428,One Story,Split level,3 Bath,ALL,Raleigh,27609
+1637,0.2,241000,12/28/18,18-Dec,2018,1955,1955,1012,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1640,0.17,2500,10/6/05,5-Oct,2005,1960,1960,864,One Story,Conventional,2 Bath,ALL,Wake Forest,27587
+1641,0.17,17000,3/4/96,Mar-96,1996,1930,1930,832,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1644,0.25,50000,7/26/16,16-Jul,2016,1964,1964,1856,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27610
+1650,0.1,44500,10/3/95,Oct-95,1995,1935,1935,1060,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+1652,0.26,33500,1/1/72,Jan-72,1972,1971,1971,2048,One Story,Split Foyer,2½ Bath,ALL,Raleigh,27610
+1653,0.31,310000,12/5/19,19-Dec,2019,1969,1969,1815,One Story,Split level,2½ Bath,ALL,Raleigh,27610
+1658,0.66,110000,11/20/15,15-Nov,2015,1970,1970,1458,One Story,Conventional,2 Bath,E,Cary,27513
+1659,0.36,115000,6/15/84,Jun-84,1984,1970,1970,3243,Other,Conventional,2½ Bath,ALL,Raleigh,27609
+1661,0.28,441000,4/11/19,19-Apr,2019,2018,2018,2161,Other,Conventional,3 Bath,ALL,Raleigh,27601
+1662,1.83,78500,8/6/13,13-Aug,2013,1959,1959,1040,One Story,Conventional,1 Bath,E,Cary,27513
+1667,0.21,103000,11/5/03,3-Nov,2003,1971,1971,1320,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27610
+1668,0.18,50000,9/4/08,8-Sep,2008,1952,1952,1012,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1675,0.1,10000,3/22/93,Mar-93,1993,1959,1959,840,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1676,0.24,245000,8/14/18,18-Aug,2018,1960,1960,1215,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27610
+1677,0.34,132500,10/6/20,20-Oct,2020,1961,1961,768,One Story,Ranch,1 Bath,WE,Raleigh,27613
+1678,0.15,85000,11/2/16,16-Nov,2016,1970,1970,1000,One Story,Conventional,1 Bath,WSE,Wake Forest,27587
+1679,0.28,17500,1/1/71,Jan-71,1971,1971,1971,1122,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1682,0.2,45000,3/13/14,14-Mar,2014,1956,1956,744,One Story,Conventional,1 Bath,E,Raleigh,27610
+1683,0.33,39500,11/20/98,Nov-98,1998,1935,1935,1144,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+1684,0.31,75000,2/28/97,Feb-97,1997,1969,1969,1092,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27610
+1686,0.16,109000,12/14/16,16-Dec,2016,1950,1950,1189,One Story,Conventional,1 Bath,ALL,Raleigh,27601
+1688,0.73,33000,2/14/12,12-Feb,2012,1901,1901,1170,One Story,Conventional,1 Bath,WSE,Wake Forest,27587
+1689,0.11,23000,8/10/12,12-Aug,2012,1920,1920,1005,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1690,0.27,27500,8/7/92,Aug-92,1992,1960,1960,1002,One Story,Ranch,1 Bath,WSE,Raleigh,27603
+1691,0.45,225000,12/2/16,16-Dec,2016,1953,1953,1885,Two Story,Conventional,2 Bath,ALL,Raleigh,27607
+1697,0.27,110000,10/12/16,16-Oct,2016,1953,1953,1482,Two Story,Conventional,2 Bath,ALL,Wake Forest,27587
+1700,0.84,181000,2/20/14,14-Feb,2014,1963,1963,2663,One Story,Split level,2 Bath,E,Cary,27513
+1706,0.49,40500,1/1/74,Jan-74,1974,1962,1962,2290,One Story,Ranch,2 Bath,ALL,Raleigh,27612
+1707,0.74,280000,10/29/18,18-Oct,2018,1973,1973,2335,Other,Conventional,Other,ALL,Raleigh,27612
+1708,0.27,187000,3/9/18,18-Mar,2018,1966,2019,1516,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+1709,0.39,41000,1/1/77,Jan-77,1977,1932,1932,2771,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+1710,0.46,275500,5/13/21,21-May,2021,1964,1964,1436,One Story,Ranch,2 Bath,E,Raleigh,27603
+1711,0.63,45500,1/1/77,Jan-77,1977,1971,1971,1900,One Story,Split level,2½ Bath,ALL,Raleigh,27610
+1712,0.32,107000,5/27/10,10-May,2010,1971,1971,1156,One Story,Ranch,1 ½ Bath,ALL,Garner,27529
+1713,0.2,485000,10/11/19,19-Oct,2019,1950,2019,1568,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+1716,0.45,1850000,12/23/20,20-Dec,2020,2020,2020,4518,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1721,0.24,80000,9/23/05,5-Sep,2005,1955,1955,849,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1725,0.2,46500,10/2/92,Oct-92,1992,1950,2014,1676,One Story,Conventional,2½ Bath,ALL,Raleigh,27604
+1726,0.11,200000,9/27/00,Sep-00,2000,1925,1925,1680,Other,Conventional,1 Bath,ALL,Raleigh,27604
+1728,0.34,280000,5/17/19,19-May,2019,1957,1957,1490,Other,Conventional,2 Bath,ALL,Raleigh,27610
+1730,0.45,69000,1/1/78,Jan-78,1978,1957,2015,2976,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+1734,0.4,789000,5/6/21,21-May,2021,1971,1971,2744,Two Story,Conventional,2½ Bath,ALL,Raleigh,27609
+1740,0.28,135000,3/27/02,2-Mar,2002,1971,1971,2632,One Story,Split Foyer,3 Bath,ALL,Raleigh,27609
+1741,0.29,185000,5/10/13,13-May,2013,1971,1971,1719,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+1742,0.28,177000,5/4/04,4-May,2004,1972,1972,2316,Other,Conventional,2½ Bath,ALL,Raleigh,27609
+1754,0.28,859000,4/13/18,18-Apr,2018,2017,2017,3764,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1755,0.34,777500,12/18/20,20-Dec,2020,1958,2015,3109,Other,Conventional,3 Bath,ALL,Raleigh,27609
+1757,0.27,43500,1/1/75,Jan-75,1975,1942,1942,3251,Other,Conventional,3 Bath,ALL,Raleigh,27608
+1759,0.22,155000,1/20/15,15-Jan,2015,1955,1955,1012,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1760,0.3,205000,10/20/16,16-Oct,2016,1951,1951,1038,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1761,0.33,352000,8/18/17,17-Aug,2017,1961,1961,1845,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1763,0.33,325000,11/9/06,6-Nov,2006,1964,1964,2190,One Story,Split level,3 Bath,ALL,Raleigh,27609
+1764,1.17,509000,7/20/20,20-Jul,2020,1976,1976,2454,Other,Conventional,2½ Bath,GE,Raleigh,27615
+1765,1.23,68000,1/1/77,Jan-77,1977,1977,1977,2690,Other,Conventional,Other,GE,Raleigh,27615
+1766,1.29,320000,5/31/13,13-May,2013,1978,1978,2942,Two Story,Conventional,3½ Bath,GE,Raleigh,27615
+1768,0.53,565000,7/1/14,14-Jul,2014,1972,1972,2719,One Story,Conventional,2½ Bath,ALL,Raleigh,27607
+1769,0.57,685000,3/11/21,21-Mar,2021,1973,2020,2606,One Story,Split level,3 Bath,ALL,Raleigh,27607
+1770,0.49,240000,4/24/00,Apr-00,2000,1972,1972,2088,One Story,Split level,3 Bath,ALL,Raleigh,27612
+1771,0.58,315000,6/26/02,2-Jun,2002,1973,1973,3675,One Story,Conventional,3 Bath,ALL,Raleigh,27607
+1772,0.63,55500,1/1/73,Jan-73,1973,1972,1972,2436,One Story,Conventional,2½ Bath,ALL,Raleigh,27607
+1773,0.62,56000,1/1/73,Jan-73,1973,1972,1972,2892,One Story,Split Foyer,2½ Bath,ALL,Raleigh,27607
+1774,0.45,52500,1/1/75,Jan-75,1975,1974,1974,2025,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+1775,0.6,98000,7/12/83,Jul-83,1983,1972,1972,2590,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+1776,0.69,360000,1/11/07,7-Jan,2007,1972,1972,2350,One Story,Conventional,2 Bath,ALL,Raleigh,27607
+1777,0.48,195000,12/2/08,8-Dec,2008,1963,1963,1720,One Story,Conventional,2 Bath,ALL,Raleigh,27612
+1781,0.29,150000,5/22/19,19-May,2019,1910,1910,894,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+1783,1.08,210000,4/28/93,Apr-93,1993,1964,1964,2682,One Story,Conventional,3 Bath,WSE,Raleigh,27615
+1787,2.46,200000,12/15/15,15-Dec,2015,1920,1920,3457,Other,Conventional,2 Bath,E,Wendell,27591
+1788,0.57,155000,7/1/03,3-Jul,2003,1966,2018,1484,One Story,Ranch,2 Bath,ALL,Cary,27511
+1789,0.33,158000,6/27/03,3-Jun,2003,1971,1971,1581,One Story,Split level,2½ Bath,ALL,Raleigh,27615
+1790,0.63,206000,11/6/13,13-Nov,2013,1964,1964,1739,One Story,Conventional,2 Bath,WSE,Fuquay Varina,27526
+1792,28.07,600000,9/8/17,17-Sep,2017,1960,2012,3372,One Story,Conventional,3 Bath,E,Garner,27529
+1792,28.07,600000,9/8/17,17-Sep,2017,1975,1975,1024,One Story,Conventional,1 Bath,E,Garner,27529
+1793,0.93,475000,3/24/11,11-Mar,2011,1951,2016,3163,One Story,Conventional,3½ Bath,ALL,Raleigh,27607
+1794,0.54,135000,10/30/95,Oct-95,1995,1914,1914,2566,Other,Conventional,2½ Bath,ALL,Wake Forest,27587
+1795,0.23,221000,2/20/09,9-Feb,2009,1965,1965,1370,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1799,0.31,180000,8/2/05,5-Aug,2005,1969,1969,2080,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1800,0.31,292000,12/23/13,13-Dec,2013,1971,1971,2092,One Story,Split level,3 Bath,ALL,Raleigh,27615
+1801,0.67,1000000,5/25/21,21-May,2021,1972,1972,3895,Other,Conventional,Other,ALL,Cary,27511
+1803,0.58,600000,1/9/19,19-Jan,2019,1969,1969,2595,One Story,Split level,3½ Bath,ALL,Raleigh,27609
+1808,0.41,60000,6/22/83,Jun-83,1983,1964,1964,2100,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+1809,0.3,251000,6/10/16,16-Jun,2016,1964,1964,1927,One Story,Split level,2½ Bath,ALL,Cary,27511
+1813,0.16,52500,3/26/82,Mar-82,1982,1928,1928,1323,One Story,Conventional,1 Bath,ALL,Raleigh,27605
+1814,0.2,228000,11/24/99,Nov-99,1999,1940,2016,3002,One Story,Conventional,3½ Bath,ALL,Raleigh,27607
+1815,0.2,89500,3/31/88,Mar-88,1988,1923,1923,1472,One Story,Conventional,2½ Bath,ALL,Raleigh,27605
+1817,0.14,199500,1/14/20,20-Jan,2020,1932,1932,1928,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+1818,0.18,38500,8/20/09,9-Aug,2009,1988,1988,1362,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+1819,0.47,265000,9/28/16,16-Sep,2016,2008,2008,2386,Two Story,Conventional,2 Bath,ALL,Apex,27502
+1822,0.28,211000,5/14/01,1-May,2001,1969,1969,2445,Other,Conventional,2½ Bath,ALL,Raleigh,27609
+1823,0.23,153000,7/21/04,4-Jul,2004,1958,1958,1364,One Story,Ranch,1 Bath,ALL,Raleigh,27604
+1824,0.59,475000,6/30/16,16-Jun,2016,1988,1988,2916,Other,Conventional,2½ Bath,ALL,Raleigh,27607
+1825,0.45,139500,3/28/14,14-Mar,2014,1955,1955,1308,One Story,Conventional,2 Bath,ALL,Raleigh,27606
+1826,0.41,1125000,8/9/19,19-Aug,2019,1959,2015,3548,One Story,Conventional,3½ Bath,ALL,Raleigh,27609
+1827,0.69,592000,10/1/03,3-Oct,2003,1981,1981,4724,One Story,Conventional,3½ Bath,ALL,Cary,27511
+1829,0.55,142500,7/29/94,Jul-94,1994,1969,1969,2684,Other,Conventional,3 Bath,ALL,Raleigh,27609
+1831,0.33,400500,9/22/16,16-Sep,2016,1960,1960,2378,One Story,Split level,3 Bath,ALL,Raleigh,27609
+1832,0.21,430000,5/17/13,13-May,2013,1951,1951,1842,Two Story,Conventional,2 Bath,ALL,Raleigh,27608
+1838,0.25,100000,12/3/99,Dec-99,1999,1963,1963,1665,One Story,Split level,2 Bath,ALL,Raleigh,27604
+1839,0.87,360000,11/14/88,Nov-88,1988,1957,2009,4910,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1841,0.4,125000,4/30/07,7-Apr,2007,1959,1959,1568,One Story,Ranch,1 Bath,ALL,Cary,27511
+1844,0.06,206000,7/28/17,17-Jul,2017,1935,1935,748,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27610
+1845,0.91,184500,5/26/17,17-May,2017,1958,1958,1715,One Story,Ranch,1 ½ Bath,ALL,Garner,27529
+1846,0.75,247000,7/11/19,19-Jul,2019,1966,1966,1755,One Story,Conventional,1 ½ Bath,E,Apex,27523
+1847,0.48,200000,7/8/19,19-Jul,2019,1968,1968,2186,One Story,Split level,2½ Bath,GE,Raleigh,27604
+1848,0.53,174000,11/1/95,Nov-95,1995,1961,1961,3116,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1849,0.22,67500,9/26/00,Sep-00,2000,1949,1949,921,One Story,Conventional,1 Bath,ALL,Cary,27511
+1850,1.36,1541000,9/24/08,8-Sep,2008,2008,2008,6538,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1851,0.4,297500,8/31/07,7-Aug,2007,1961,1961,1942,One Story,Ranch,2 Bath,ALL,Raleigh,27612
+1852,1.12,239000,3/17/10,10-Mar,2010,1980,1980,1417,One Story,Ranch,2 Bath,ALL,Raleigh,27612
+1853,0.48,175000,9/25/17,17-Sep,2017,2019,2019,3137,One Story,Conventional,3½ Bath,ALL,Raleigh,27609
+1854,0.52,610000,11/5/20,20-Nov,2020,1954,1954,3142,One Story,Conventional,3 Bath,ALL,Raleigh,27607
+1855,0.32,109000,6/6/00,Jun-00,2000,1959,1959,1194,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27604
+1856,0.82,100000,10/1/81,Oct-81,1981,1972,1972,2668,One Story,Conventional,2½ Bath,WGE,Raleigh,27613
+1858,0.29,85000,11/9/04,4-Nov,2004,1969,1969,1050,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1859,0.31,20500,1/1/73,Jan-73,1973,1960,1960,1460,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27603
+1860,0.55,68000,10/24/86,Oct-86,1986,1981,1981,2442,One Story,Conventional,2 Bath,GE,Raleigh,27604
+1863,0.24,195000,8/11/16,16-Aug,2016,1964,1964,1740,One Story,Split level,1 ½ Bath,ALL,Raleigh,27610
+1864,0.28,506000,2/18/21,21-Feb,2021,1965,1965,1578,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1865,0.14,175000,1/27/12,12-Jan,2012,1948,1948,898,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1866,0.57,313000,1/28/09,9-Jan,2009,1962,2006,1929,One Story,Conventional,2½ Bath,ALL,Raleigh,27612
+1868,0.51,49000,1/1/76,Jan-76,1976,1969,1969,2041,One Story,Split level,3 Bath,ALL,Raleigh,27609
+1869,0.26,79500,8/10/04,4-Aug,2004,1960,1960,1000,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1872,0.27,23000,1/1/75,Jan-75,1975,1960,1960,1329,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27610
+1873,0.28,104000,6/25/15,15-Jun,2015,1960,1960,1059,One Story,Conventional,1 Bath,ALL,Garner,27529
+1876,0.47,25500,7/1/81,Jul-81,1981,1971,1971,1152,One Story,Ranch,2 Bath,E,Raleigh,27610
+1878,0.16,85000,11/30/00,Nov-00,2000,2018,2018,2425,Two Story,Conventional,3½ Bath,ALL,Raleigh,27607
+1881,0.12,225500,5/10/19,19-May,2019,2018,2018,1564,Other,Conventional,2½ Bath,ALL,Wake Forest,27587
+1892,2.04,85000,9/1/89,Sep-89,1989,1930,1930,1671,One Story,Conventional,2 Bath,E,Wake Forest,27587
+1893,0.36,60000,9/16/82,Sep-82,1982,1940,1940,2135,Two Story,Conventional,2 Bath,ALL,Raleigh,27607
+1894,0.35,390000,7/9/18,18-Jul,2018,1971,1971,2055,Other,Conventional,2 Bath,ALL,Raleigh,27609
+1895,0.32,72000,5/22/84,May-84,1984,1969,1969,2103,One Story,Split level,2½ Bath,ALL,Cary,27511
+1896,0.26,301000,5/26/21,21-May,2021,1969,1969,1618,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27609
+1897,0.36,785000,5/2/14,14-May,2014,2014,2014,3496,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+1898,0.3,21000,1/1/73,Jan-73,1973,1965,1965,2294,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27610
+1899,1.88,18000,5/31/07,7-May,2007,1971,1971,832,One Story,Conventional,1 Bath,E,Zebulon,27597
+1900,0.49,45000,12/30/88,Dec-88,1988,1930,1930,940,One Story,Conventional,1 Bath,WSE,Wendell,27591
+1902,0.48,162500,7/25/01,1-Jul,2001,1968,1968,1928,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1903,0.28,117500,4/30/97,Apr-97,1997,1971,1971,1632,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1912,0.3,315000,5/9/14,14-May,2014,1971,1971,3248,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1913,0.58,215000,7/31/20,20-Jul,2020,1950,2020,1357,One Story,Conventional,1 Bath,ALL,Raleigh,27604
+1914,0.29,238000,11/3/16,16-Nov,2016,1972,1972,1519,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1915,0.34,145500,6/30/95,Jun-95,1995,1961,1961,2047,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+1917,0.2,785000,12/31/19,19-Dec,2019,1928,2021,5214,Other,Conventional,3½ Bath,ALL,Raleigh,27605
+1923,0.47,219000,5/21/14,14-May,2014,1961,1961,2656,One Story,Conventional,2 Bath,ALL,Raleigh,27612
+1924,0.38,1150000,10/23/20,20-Oct,2020,1938,1938,3784,Other,Conventional,3 Bath,ALL,Raleigh,27608
+1925,0.29,240000,1/30/09,9-Jan,2009,1966,1966,2280,One Story,Split level,3 Bath,ALL,Raleigh,27609
+1927,2.94,155000,10/31/16,16-Oct,2016,1950,1950,1424,One Story,Conventional,2 Bath,E,Raleigh,27610
+1928,0.22,64500,2/19/93,Feb-93,1993,1959,1959,1075,One Story,Ranch,1 Bath,ALL,Raleigh,27610
+1930,0.49,35500,6/1/81,Jun-81,1981,1981,1981,1097,One Story,Conventional,1 ½ Bath,E,Garner,27529
+1931,0.27,735000,7/31/18,18-Jul,2018,1942,1942,2777,Other,Conventional,2½ Bath,ALL,Raleigh,27608
+1932,0.75,379000,6/30/94,Jun-94,1994,1986,1986,3228,Other,Conventional,Other,ALL,Cary,27511
+1935,0.52,970000,1/23/18,18-Jan,2018,2011,2011,3637,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1936,0.5,109000,10/9/14,14-Oct,2014,1955,1955,1400,One Story,Conventional,1 Bath,WSE,Garner,27529
+1938,0.22,327000,6/7/07,7-Jun,2007,1948,1948,3065,Other,Conventional,3½ Bath,ALL,Raleigh,27607
+1940,0.81,468000,4/18/19,19-Apr,2019,1961,1961,3690,One Story,Ranch,3 Bath,ALL,Raleigh,27612
+1941,0.37,0,12/12/03,3-Dec,2003,1957,1957,4428,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1942,0.33,335000,6/21/13,13-Jun,2013,1957,1957,1794,One Story,Conventional,2 Bath,ALL,Raleigh,27608
+1943,0.5,31000,1/1/69,Jan-69,1969,1966,1966,2028,One Story,Split level,3 Bath,ALL,Raleigh,27603
+1944,0.49,87000,7/8/02,2-Jul,2002,1959,1959,1650,One Story,Conventional,2 Bath,ALL,Raleigh,27610
+1945,0.29,165000,1/11/02,2-Jan,2002,1970,1970,2013,One Story,Split level,3 Bath,ALL,Cary,27511
+1946,0.5,270000,9/13/13,13-Sep,2013,1961,1961,2204,One Story,Split Foyer,2 Bath,ALL,Raleigh,27609
+1947,0.53,385000,3/11/21,21-Mar,2021,1971,2020,1920,One Story,Split level,2½ Bath,ALL,Raleigh,27615
+1954,0.41,305000,8/28/06,6-Aug,2006,1960,1960,2497,One Story,Ranch,2 Bath,ALL,Raleigh,27612
+1956,0.35,340000,8/6/15,15-Aug,2015,1952,1952,1720,One Story,Conventional,2 Bath,ALL,Raleigh,27605
+1958,0.17,447500,6/12/20,20-Jun,2020,1957,1957,1486,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27608
+1962,0.46,90000,4/30/02,2-Apr,2002,1955,1955,1470,One Story,Conventional,1 Bath,WSE,Garner,27529
+1964,0.51,324500,2/9/18,18-Feb,2018,2017,2017,1736,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+1966,0.27,400000,6/17/21,21-Jun,2021,1965,2018,1092,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+1967,0.28,300000,3/2/18,18-Mar,2018,1964,1964,1227,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+1971,0.17,160000,1/9/19,19-Jan,2019,1968,2019,1176,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+1972,0.19,10000,1/1/73,Jan-73,1973,1935,1935,962,One Story,Conventional,1 Bath,ALL,Raleigh,27608
+1973,0.32,42000,1/1/76,Jan-76,1976,1971,1971,1843,One Story,Split level,1 Bath,ALL,Cary,27511
+1974,0.35,90000,6/19/96,Jun-96,1996,1961,1961,1196,One Story,Conventional,2 Bath,ALL,Raleigh,27604
+1975,1.76,360000,8/26/15,15-Aug,2015,2017,2017,7330,Other,Conventional,3½ Bath,E,Cary,27518
+1976,0.54,630000,7/29/05,5-Jul,2005,1972,1972,3981,Other,Conventional,3½ Bath,ALL,Raleigh,27612
+1979,0.18,247000,3/19/21,21-Mar,2021,1947,1947,1386,One Story,Conventional,2 Bath,ALL,Wendell,27591
+1981,0.35,83500,10/30/02,2-Oct,2002,1951,1951,793,One Story,Conventional,1 Bath,ALL,Garner,27529
+1982,0.64,850000,5/27/15,15-May,2015,1963,2016,4761,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1983,0.32,285000,11/18/15,15-Nov,2015,1967,2018,1875,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+1984,0.68,755000,12/16/11,11-Dec,2011,1958,2013,5112,One Story,Conventional,3½ Bath,ALL,Raleigh,27608
+1986,0.68,2400000,5/1/20,20-May,2020,1970,2021,8520,Other,Conventional,3½ Bath,ALL,Raleigh,27609
+1988,0.48,125000,9/19/03,3-Sep,2003,1960,1960,1312,One Story,Ranch,1 ½ Bath,ALL,Raleigh,27609
+1989,0.17,269000,8/16/02,2-Aug,2002,1939,1939,1528,Two Story,Conventional,2 Bath,ALL,Raleigh,27604
+1990,0.33,116000,6/28/96,Jun-96,1996,1962,1962,1331,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+1992,0.23,600000,9/29/06,6-Sep,2006,1951,1951,2627,One Story,Conventional,3 Bath,ALL,Raleigh,27608
+1993,0.47,62700,8/1/08,8-Aug,2008,1971,1971,1199,One Story,Conventional,1 ½ Bath,E,Apex,27539
+1995,0.69,90000,6/20/18,18-Jun,2018,1958,1958,950,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1996,0.21,62500,12/18/07,7-Dec,2007,1959,1959,975,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+1998,0.22,58500,4/17/13,13-Apr,2013,1950,1950,740,One Story,Conventional,1 Bath,ALL,Raleigh,27610
+2000,1.14,390000,8/12/19,19-Aug,2019,1997,1997,9429,Other,Conventional,3½ Bath,ALL,Raleigh,27608
+2002,0.25,61000,9/3/08,8-Sep,2008,1950,1950,744,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+2003,0.45,125000,9/14/01,1-Sep,2001,1955,1955,2184,One Story,Ranch,2 Bath,ALL,Raleigh,27603
+2004,0.3,45000,10/10/00,Oct-00,2000,1952,1952,744,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+2005,0.26,55000,5/28/15,15-May,2015,1930,1930,750,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+2006,0.22,192500,6/15/20,20-Jun,2020,1952,1952,1896,One Story,Conventional,2 Bath,ALL,Raleigh,27603
+2007,0.24,143000,7/23/19,19-Jul,2019,1956,2019,1371,One Story,Conventional,1 ½ Bath,ALL,Raleigh,27610
+2008,0.37,70000,1/1/79,Jan-79,1979,1935,1935,1568,Other,Conventional,1 Bath,ALL,Raleigh,27608
+2009,0.26,257500,5/9/03,3-May,2003,1915,1915,3369,One Story,Conventional,3 Bath,ALL,Raleigh,27603
+2010,0.33,640000,9/26/18,18-Sep,2018,1997,1997,2868,Other,Conventional,2½ Bath,ALL,Raleigh,27608
+2011,0.69,337000,11/26/97,Nov-97,1997,1976,1976,4693,Other,Conventional,3½ Bath,ALL,Raleigh,27612
+2012,0.28,433000,7/31/15,15-Jul,2015,1955,1955,2271,Two Story,Conventional,3 Bath,ALL,Raleigh,27607
+2013,0.34,87000,10/20/14,14-Oct,2014,1959,1959,1100,One Story,Ranch,1 Bath,WSE,Wendell,27591
+2014,0.45,358000,7/2/19,19-Jul,2019,1964,1964,2100,One Story,Split Foyer,2 Bath,ALL,Raleigh,27612
+2015,0.29,118500,8/31/94,Aug-94,1994,1968,1968,2048,One Story,Conventional,2 Bath,ALL,Raleigh,27609
+2016,0.4,455000,4/15/20,20-Apr,2020,1963,1963,1885,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+2017,0.59,342000,2/5/07,7-Feb,2007,1963,1963,2329,One Story,Split level,2½ Bath,ALL,Raleigh,27609
+2019,0.28,50000,3/21/89,Mar-89,1989,1940,1940,1008,One Story,Conventional,1 Bath,ALL,Raleigh,27603
+2020,0.44,327000,10/30/14,14-Oct,2014,1963,1963,2768,One Story,Ranch,2 Bath,GE,Cary,27511
