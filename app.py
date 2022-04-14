@@ -40,33 +40,44 @@ if st.button('Say hello'):
 
 
 st.subheader('Enter your name')
-your_name = st.text_input("")
+your_name = st.text_input("your_name")
 st.title(your_name)
 
 conn = sqlite3.connect('app.sqlite')
 cur = conn.cursor()
-cur.execute("CREATE TABLE IF NOT EXISTS comments (comment varChar(350))")
+cur.execute("CREATE TABLE IF NOT EXISTS comments (Name varChar(100), Comment varChar(350))")
 conn.close()
 
 #Create a text area
 st.subheader('Give us some feedback!')
+name = st.text_input('Name')
 comment = st.text_area("")
 #push the comment to a db witht he press of a streamlit button
 if st.button('Submit'):
     conn = sqlite3.connect('app.sqlite')
     cur = conn.cursor()
-    cur.execute("INSERT INTO comments VALUES (?)", (comment,))
+    cur.execute("INSERT INTO comments VALUES (?,?)", (name,comment,))
     conn.commit()
     conn.close()
     
 
 st.subheader('Comments')
-conn = sqlite3.connect('app.sqlite')
-cur = conn.cursor()
-cur.execute("SELECT * FROM comments")
-comments = cur.fetchall()
-conn.close()
-st.table(comments)
+dat = sqlite3.connect('app.sqlite')
+query = dat.execute("SELECT * From comments")
+cols = [column[0] for column in query.description]
+results= pd.DataFrame.from_records(data = query.fetchall(), columns = cols)
+st.table(results)
+dat.close()
+
+delete_name = st.text_input("Whose comment do you want to delete?")
+
+if st.button('Delete Comment'):
+    conn = sqlite3.connect('app.sqlite')
+    cur = conn.cursor()
+    cur.execute("DELETE FROM comments WHERE name = (?)", (delete_name,))
+    conn.commit()
+    conn.close()
+
 
 
 #if result:
